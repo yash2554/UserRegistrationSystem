@@ -1,0 +1,52 @@
+2017-11-03 12:28:45 ERROR errorLogger:51 - [*] "username" null argument passed into readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:28:45 ERROR errorLogger:51 - [*] "username" null argument passed into readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:28:46 ERROR errorLogger:65 - [*] Null "username" argument detected in User constructor for User class
+2017-11-03 12:28:46 ERROR errorLogger:69 - [*] Null "password" argument detected in User constructor for User class
+2017-11-03 12:28:46 ERROR errorLogger:65 - [*] Null "username" argument detected in User constructor for User class
+2017-11-03 12:28:46 ERROR errorLogger:73 - [*] Null "role" argument detected in User constructor for User class
+2017-11-03 12:28:47 ERROR errorLogger:59 - [*] Null "username" argument detected in registerNewUser method for RegistrationController class
+2017-11-03 12:28:47 ERROR errorLogger:59 - [*] Null "username" argument detected in registerNewUser method for RegistrationController class
+2017-11-03 12:28:47 ERROR errorLogger:59 - [*] Null "username" argument detected in registerNewUser method for RegistrationController class
+2017-11-03 12:28:47 ERROR errorLogger:69 - [*] Null "role" argument detected in registerNewUser method for RegistrationController class
+2017-11-03 12:28:47 ERROR errorLogger:64 - [*] Null "password" argument detected in registerNewUser method for RegistrationController class
+2017-11-03 12:28:47 ERROR errorLogger:69 - [*] Null "role" argument detected in registerNewUser method for RegistrationController class
+2017-11-03 12:28:56 ERROR errorLogger:64 - [*] Null "password" argument detected in registerNewUser method for RegistrationController class
+2017-11-03 12:28:56 ERROR errorLogger:60 - [*] Null "password" argument detected in createUser method for UserFactory class
+2017-11-03 12:28:56 ERROR errorLogger:64 - [*] Null "role" argument detected in createUser method for UserFactory class
+2017-11-03 12:28:56 ERROR errorLogger:56 - [*] Null "username" argument detected in createUser method for UserFactory class
+2017-11-03 12:28:56 ERROR errorLogger:65 - [*] Null "username" argument detected in User constructor for User class
+2017-11-03 12:28:57 ERROR errorLogger:121 - [*] "User object" null argument passed into updateUser method invoked from UsersDAOImpl class
+2017-11-03 12:28:57 ERROR errorLogger:65 - [*] Null "username" argument detected in User constructor for User class
+2017-11-03 12:28:57 ERROR errorLogger:69 - [*] Null "password" argument detected in User constructor for User class
+2017-11-03 12:28:57 ERROR errorLogger:73 - [*] Null "role" argument detected in User constructor for User class
+2017-11-03 12:28:57 ERROR errorLogger:69 - [*] Null "password" argument detected in User constructor for User class
+2017-11-03 12:28:57 ERROR errorLogger:47 - [*] "User object" null argument passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:28:57 ERROR errorLogger:73 - [*] Null "role" argument detected in User constructor for User class
+2017-11-03 12:28:57 ERROR errorLogger:104 - [*] Null "username" argument detected in setUsername method for User class
+2017-11-03 12:28:57 ERROR errorLogger:131 - [*] Null "password" argument detected in setPassword method for User class
+2017-11-03 12:29:48 ERROR errorLogger:51 - [*] "username" null argument passed into readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:29:48 ERROR errorLogger:51 - [*] "username" null argument passed into readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:29:48 ERROR errorLogger:65 - [*] Null "username" argument detected in User constructor for User class
+2017-11-03 12:29:48 ERROR errorLogger:69 - [*] Null "password" argument detected in User constructor for User class
+2017-11-03 12:29:48 ERROR errorLogger:65 - [*] Null "username" argument detected in User constructor for User class
+2017-11-03 12:29:49 ERROR errorLogger:73 - [*] Null "role" argument detected in User constructor for User class
+2017-11-03 12:29:49 ERROR errorLogger:59 - [*] Null "username" argument detected in registerNewUser method for RegistrationController class
+2017-11-03 12:29:49 ERROR errorLogger:59 - [*] Null "username" argument detected in registerNewUser method for RegistrationController class
+2017-11-03 12:29:49 ERROR errorLogger:59 - [*] Null "username" argument detected in registerNewUser method for RegistrationController class
+2017-11-03 12:29:49 ERROR errorLogger:69 - [*] Null "role" argument detected in registerNewUser method for RegistrationController class
+2017-11-03 12:29:49 ERROR errorLogger:64 - [*] Null "password" argument detected in registerNewUser method for RegistrationController class
+2017-11-03 12:29:49 ERROR errorLogger:69 - [*] Null "role" argument detected in registerNewUser method for RegistrationController class
+2017-11-03 12:30:06 ERROR errorLogger:64 - [*] Null "password" argument detected in registerNewUser method for RegistrationController class
+2017-11-03 12:30:06 ERROR errorLogger:60 - [*] Null "password" argument detected in createUser method for UserFactory class
+2017-11-03 12:30:06 ERROR errorLogger:64 - [*] Null "role" argument detected in createUser method for UserFactory class
+2017-11-03 12:30:06 ERROR errorLogger:56 - [*] Null "username" argument detected in createUser method for UserFactory class
+2017-11-03 12:30:07 ERROR errorLogger:65 - [*] Null "username" argument detected in User constructor for User class
+2017-11-03 12:30:07 ERROR errorLogger:121 - [*] "User object" null argument passed into updateUser method invoked from UsersDAOImpl class
+2017-11-03 12:30:07 ERROR errorLogger:65 - [*] Null "username" argument detected in User constructor for User class
+2017-11-03 12:30:07 ERROR errorLogger:69 - [*] Null "password" argument detected in User constructor for User class
+2017-11-03 12:30:07 ERROR errorLogger:73 - [*] Null "role" argument detected in User constructor for User class
+2017-11-03 12:30:07 ERROR errorLogger:69 - [*] Null "password" argument detected in User constructor for User class
+2017-11-03 12:30:07 ERROR errorLogger:47 - [*] "User object" null argument passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:30:07 ERROR errorLogger:73 - [*] Null "role" argument detected in User constructor for User class
+2017-11-03 12:30:07 ERROR errorLogger:104 - [*] Null "username" argument detected in setUsername method for User class
+2017-11-03 12:30:07 ERROR errorLogger:131 - [*] Null "password" argument detected in setPassword method for User class

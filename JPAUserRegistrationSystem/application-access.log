@@ -1,0 +1,708 @@
+2017-11-03 12:28:45 TRACE accessLogger:76 - [*] User ("test2user, test2pass, test2role") passed in User constructor for User class
+2017-11-03 12:28:45 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:45 TRACE accessLogger:66 - [*] User(test2user, test2pass, test2role) passed into writeUser method invoked from DatabaseWriteCommand class
+2017-11-03 12:28:45 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:45 TRACE accessLogger:66 - [*] User(test2user, test2pass, test2role) passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:28:45 TRACE accessLogger:69 - [*] EntityManager created successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:28:45 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:77 - [*] test2user- new user record stored into database successfully
+2017-11-03 12:28:45 TRACE accessLogger:80 - [*] EntityManager invoked getTransaction method and commit successfully from UsersDAOImpl class
+2017-11-03 12:28:45 TRACE accessLogger:83 - [*] EntityManager closed successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:28:45 TRACE accessLogger:55 - [*] "test2user" passed into readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:28:45 TRACE accessLogger:101 - [*] "test2user" passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:28:45 TRACE accessLogger:104 - [*] EntityManager created successfully from getUser method in UsersDAOImpl class
+2017-11-03 12:28:45 TRACE accessLogger:107 - [*] EntityManager closed successfully from from getUser method in UsersDAOImpl class
+2017-11-03 12:28:45 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:58 - [*] User(test2user, test2pass, test2role) returned by readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:28:45 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:45 TRACE accessLogger:76 - [*] User ("test1user, test1pass, test1role") passed in User constructor for User class
+2017-11-03 12:28:45 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:45 TRACE accessLogger:66 - [*] User(test1user, test1pass, test1role) passed into writeUser method invoked from DatabaseWriteCommand class
+2017-11-03 12:28:45 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:45 TRACE accessLogger:66 - [*] User(test1user, test1pass, test1role) passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:28:45 TRACE accessLogger:69 - [*] EntityManager created successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:28:45 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:77 - [*] test1user- new user record stored into database successfully
+2017-11-03 12:28:45 TRACE accessLogger:80 - [*] EntityManager invoked getTransaction method and commit successfully from UsersDAOImpl class
+2017-11-03 12:28:45 TRACE accessLogger:83 - [*] EntityManager closed successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:28:45 TRACE accessLogger:55 - [*] "test1user" passed into readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:28:45 TRACE accessLogger:101 - [*] "test1user" passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:28:45 TRACE accessLogger:104 - [*] EntityManager created successfully from getUser method in UsersDAOImpl class
+2017-11-03 12:28:45 TRACE accessLogger:107 - [*] EntityManager closed successfully from from getUser method in UsersDAOImpl class
+2017-11-03 12:28:45 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:58 - [*] User(test1user, test1pass, test1role) returned by readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:28:45 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:45 TRACE accessLogger:76 - [*] User ("test3user, test3pass, test3role") passed in User constructor for User class
+2017-11-03 12:28:45 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:45 TRACE accessLogger:66 - [*] User(test3user, test3pass, test3role) passed into writeUser method invoked from DatabaseWriteCommand class
+2017-11-03 12:28:45 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:45 TRACE accessLogger:66 - [*] User(test3user, test3pass, test3role) passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:28:45 TRACE accessLogger:69 - [*] EntityManager created successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:28:45 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:77 - [*] test3user- new user record stored into database successfully
+2017-11-03 12:28:45 TRACE accessLogger:80 - [*] EntityManager invoked getTransaction method and commit successfully from UsersDAOImpl class
+2017-11-03 12:28:45 TRACE accessLogger:83 - [*] EntityManager closed successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:28:45 TRACE accessLogger:55 - [*] "test3user" passed into readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:28:45 TRACE accessLogger:101 - [*] "test3user" passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:28:45 TRACE accessLogger:104 - [*] EntityManager created successfully from getUser method in UsersDAOImpl class
+2017-11-03 12:28:45 TRACE accessLogger:107 - [*] EntityManager closed successfully from from getUser method in UsersDAOImpl class
+2017-11-03 12:28:45 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:58 - [*] User(test3user, test3pass, test3role) returned by readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:28:45 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:45 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:46 TRACE accessLogger:76 - [*] User ("test7user, test7pass, test7role") passed in User constructor for User class
+2017-11-03 12:28:46 TRACE accessLogger:76 - [*] User ("test7user, test7Updatepass, test7Updaterole") passed in User constructor for User class
+2017-11-03 12:28:46 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:46 TRACE accessLogger:66 - [*] User(test7user, test7pass, test7role) passed into writeUser method invoked from DatabaseWriteCommand class
+2017-11-03 12:28:46 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:46 TRACE accessLogger:66 - [*] User(test7user, test7pass, test7role) passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:28:46 TRACE accessLogger:69 - [*] EntityManager created successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:28:46 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:77 - [*] test7user- new user record stored into database successfully
+2017-11-03 12:28:46 TRACE accessLogger:80 - [*] EntityManager invoked getTransaction method and commit successfully from UsersDAOImpl class
+2017-11-03 12:28:46 TRACE accessLogger:83 - [*] EntityManager closed successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:28:46 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:46 TRACE accessLogger:107 - [*] User(test7user, test7Updatepass, test7Updaterole) passed into writeUpdateUser method invoked from DatabaseWriteCommand class
+2017-11-03 12:28:46 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:46 TRACE accessLogger:142 - [*] User(test7user, test7Updatepass, test7Updaterole) passed into updateUser method invoked from UsersDAOImpl class
+2017-11-03 12:28:46 TRACE accessLogger:145 - [*] EntityManager created successfully from updateUser method in UsersDAOImpl class
+2017-11-03 12:28:46 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:46 TRACE accessLogger:150 - [*] EntityManager invoked getTransaction method and commit successfully from UsersDAOImpl class
+2017-11-03 12:28:46 TRACE accessLogger:153 - [*] EntityManager closed successfully from updateUser method in UsersDAOImpl class
+2017-11-03 12:28:46 TRACE accessLogger:55 - [*] "test7user" passed into readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:28:46 TRACE accessLogger:101 - [*] "test7user" passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:28:46 TRACE accessLogger:104 - [*] EntityManager created successfully from getUser method in UsersDAOImpl class
+2017-11-03 12:28:46 TRACE accessLogger:107 - [*] EntityManager closed successfully from from getUser method in UsersDAOImpl class
+2017-11-03 12:28:46 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:58 - [*] User(test7user, test7Updatepass, test7Updaterole) returned by readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:28:46 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:46 TRACE accessLogger:76 - [*] User ("test6user, test6pass, test6role") passed in User constructor for User class
+2017-11-03 12:28:46 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:46 TRACE accessLogger:66 - [*] User(test6user, test6pass, test6role) passed into writeUser method invoked from DatabaseWriteCommand class
+2017-11-03 12:28:46 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:46 TRACE accessLogger:66 - [*] User(test6user, test6pass, test6role) passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:28:46 TRACE accessLogger:69 - [*] EntityManager created successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:28:46 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:77 - [*] test6user- new user record stored into database successfully
+2017-11-03 12:28:46 TRACE accessLogger:80 - [*] EntityManager invoked getTransaction method and commit successfully from UsersDAOImpl class
+2017-11-03 12:28:46 TRACE accessLogger:83 - [*] EntityManager closed successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:28:46 TRACE accessLogger:55 - [*] "test6user" passed into readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:28:46 TRACE accessLogger:101 - [*] "test6user" passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:28:46 TRACE accessLogger:104 - [*] EntityManager created successfully from getUser method in UsersDAOImpl class
+2017-11-03 12:28:46 TRACE accessLogger:107 - [*] EntityManager closed successfully from from getUser method in UsersDAOImpl class
+2017-11-03 12:28:46 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:58 - [*] User(test6user, test6pass, test6role) returned by readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:28:46 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:46 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:47 TRACE accessLogger:73 - [*] User ("test144user, test144pass, test144role") passed in registerNewUser method for RegistrationController class
+2017-11-03 12:28:47 TRACE accessLogger:55 - [*] "test144user" passed into readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:28:47 TRACE accessLogger:101 - [*] "test144user" passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:28:47 TRACE accessLogger:104 - [*] EntityManager created successfully from getUser method in UsersDAOImpl class
+2017-11-03 12:28:47 TRACE accessLogger:107 - [*] EntityManager closed successfully from from getUser method in UsersDAOImpl class
+2017-11-03 12:28:47 TRACE accessLogger:67 - [*] Strings ("test144user, test144pass, test144role") passed in createUser method for UserFactory class
+2017-11-03 12:28:47 TRACE accessLogger:76 - [*] User ("test144user, test144pass, test144role") passed in User constructor for User class
+2017-11-03 12:28:47 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:47 TRACE accessLogger:79 - [*] test144user- new user object created in registerNewUser method for RegistrationController class
+2017-11-03 12:28:47 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:47 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:47 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:47 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:47 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:47 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:47 TRACE accessLogger:66 - [*] User(test144user, test144pass, test144role) passed into writeUser method invoked from DatabaseWriteCommand class
+2017-11-03 12:28:47 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:47 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:47 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:47 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:47 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:47 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:47 TRACE accessLogger:66 - [*] User(test144user, test144pass, test144role) passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:28:47 TRACE accessLogger:69 - [*] EntityManager created successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:28:47 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:47 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:47 INFO  accessLogger:77 - [*] test144user- new user record stored into database successfully
+2017-11-03 12:28:47 TRACE accessLogger:80 - [*] EntityManager invoked getTransaction method and commit successfully from UsersDAOImpl class
+2017-11-03 12:28:47 TRACE accessLogger:83 - [*] EntityManager closed successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:28:47 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:47 INFO  accessLogger:83 - [*] test144user- new user record stored into database successfully
+2017-11-03 12:28:47 TRACE accessLogger:73 - [*] User ("test144user, updatetest144pass, updatetest144role") passed in registerNewUser method for RegistrationController class
+2017-11-03 12:28:47 TRACE accessLogger:55 - [*] "test144user" passed into readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:28:47 TRACE accessLogger:101 - [*] "test144user" passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:28:47 TRACE accessLogger:104 - [*] EntityManager created successfully from getUser method in UsersDAOImpl class
+2017-11-03 12:28:47 TRACE accessLogger:107 - [*] EntityManager closed successfully from from getUser method in UsersDAOImpl class
+2017-11-03 12:28:47 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:47 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:47 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:47 INFO  accessLogger:58 - [*] User(test144user, test144pass, test144role) returned by readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:28:47 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:47 TRACE accessLogger:86 - [*] test144user- duplicate user object passed in registerNewUser method for RegistrationController class
+2017-11-03 12:28:47 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:56 TRACE accessLogger:94 - [*] test144user- updated user object passed in registerNewUser method for RegistrationController class
+2017-11-03 12:28:56 TRACE accessLogger:67 - [*] Strings ("test144user, updatetest144pass, updatetest144role") passed in createUser method for UserFactory class
+2017-11-03 12:28:56 TRACE accessLogger:76 - [*] User ("test144user, updatetest144pass, updatetest144role") passed in User constructor for User class
+2017-11-03 12:28:56 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:56 TRACE accessLogger:97 - [*] test144user- updated user object created in registerNewUser method for RegistrationController class
+2017-11-03 12:28:56 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:56 TRACE accessLogger:107 - [*] User(test144user, updatetest144pass, updatetest144role) passed into writeUpdateUser method invoked from DatabaseWriteCommand class
+2017-11-03 12:28:56 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:56 TRACE accessLogger:142 - [*] User(test144user, updatetest144pass, updatetest144role) passed into updateUser method invoked from UsersDAOImpl class
+2017-11-03 12:28:56 TRACE accessLogger:145 - [*] EntityManager created successfully from updateUser method in UsersDAOImpl class
+2017-11-03 12:28:56 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:56 TRACE accessLogger:150 - [*] EntityManager invoked getTransaction method and commit successfully from UsersDAOImpl class
+2017-11-03 12:28:56 TRACE accessLogger:153 - [*] EntityManager closed successfully from updateUser method in UsersDAOImpl class
+2017-11-03 12:28:56 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:101 - [*] test144user- user record updated into database successfully
+2017-11-03 12:28:56 TRACE accessLogger:55 - [*] "test144user" passed into readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:28:56 TRACE accessLogger:101 - [*] "test144user" passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:28:56 TRACE accessLogger:104 - [*] EntityManager created successfully from getUser method in UsersDAOImpl class
+2017-11-03 12:28:56 TRACE accessLogger:107 - [*] EntityManager closed successfully from from getUser method in UsersDAOImpl class
+2017-11-03 12:28:56 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:58 - [*] User(test144user, updatetest144pass, updatetest144role) returned by readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:28:56 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:56 TRACE accessLogger:73 - [*] User ("test14user, test14pass, test14role") passed in registerNewUser method for RegistrationController class
+2017-11-03 12:28:56 TRACE accessLogger:55 - [*] "test14user" passed into readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:28:56 TRACE accessLogger:101 - [*] "test14user" passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:28:56 TRACE accessLogger:104 - [*] EntityManager created successfully from getUser method in UsersDAOImpl class
+2017-11-03 12:28:56 TRACE accessLogger:107 - [*] EntityManager closed successfully from from getUser method in UsersDAOImpl class
+2017-11-03 12:28:56 TRACE accessLogger:67 - [*] Strings ("test14user, test14pass, test14role") passed in createUser method for UserFactory class
+2017-11-03 12:28:56 TRACE accessLogger:76 - [*] User ("test14user, test14pass, test14role") passed in User constructor for User class
+2017-11-03 12:28:56 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:56 TRACE accessLogger:79 - [*] test14user- new user object created in registerNewUser method for RegistrationController class
+2017-11-03 12:28:56 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:56 TRACE accessLogger:66 - [*] User(test14user, test14pass, test14role) passed into writeUser method invoked from DatabaseWriteCommand class
+2017-11-03 12:28:56 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:56 TRACE accessLogger:66 - [*] User(test14user, test14pass, test14role) passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:28:56 TRACE accessLogger:69 - [*] EntityManager created successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:28:56 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:77 - [*] test14user- new user record stored into database successfully
+2017-11-03 12:28:56 TRACE accessLogger:80 - [*] EntityManager invoked getTransaction method and commit successfully from UsersDAOImpl class
+2017-11-03 12:28:56 TRACE accessLogger:83 - [*] EntityManager closed successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:28:56 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:83 - [*] test14user- new user record stored into database successfully
+2017-11-03 12:28:56 TRACE accessLogger:55 - [*] "test14user" passed into readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:28:56 TRACE accessLogger:101 - [*] "test14user" passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:28:56 TRACE accessLogger:104 - [*] EntityManager created successfully from getUser method in UsersDAOImpl class
+2017-11-03 12:28:56 TRACE accessLogger:107 - [*] EntityManager closed successfully from from getUser method in UsersDAOImpl class
+2017-11-03 12:28:56 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:58 - [*] User(test14user, test14pass, test14role) returned by readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:28:56 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:56 TRACE accessLogger:67 - [*] Strings ("test19user, test19pass, test19role") passed in createUser method for UserFactory class
+2017-11-03 12:28:56 TRACE accessLogger:76 - [*] User ("test19user, test19pass, test19role") passed in User constructor for User class
+2017-11-03 12:28:56 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:56 TRACE accessLogger:76 - [*] User ("test24user, test24pass, test24role") passed in User constructor for User class
+2017-11-03 12:28:56 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:56 TRACE accessLogger:66 - [*] User(test24user, test24pass, test24role) passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:28:56 TRACE accessLogger:69 - [*] EntityManager created successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:28:56 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:77 - [*] test24user- new user record stored into database successfully
+2017-11-03 12:28:56 TRACE accessLogger:80 - [*] EntityManager invoked getTransaction method and commit successfully from UsersDAOImpl class
+2017-11-03 12:28:56 TRACE accessLogger:83 - [*] EntityManager closed successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:28:56 TRACE accessLogger:76 - [*] User ("test24user, updatetest24pass, updatetest24role") passed in User constructor for User class
+2017-11-03 12:28:56 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:56 TRACE accessLogger:142 - [*] User(test24user, updatetest24pass, updatetest24role) passed into updateUser method invoked from UsersDAOImpl class
+2017-11-03 12:28:56 TRACE accessLogger:145 - [*] EntityManager created successfully from updateUser method in UsersDAOImpl class
+2017-11-03 12:28:56 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:56 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:56 TRACE accessLogger:150 - [*] EntityManager invoked getTransaction method and commit successfully from UsersDAOImpl class
+2017-11-03 12:28:56 TRACE accessLogger:153 - [*] EntityManager closed successfully from updateUser method in UsersDAOImpl class
+2017-11-03 12:28:56 TRACE accessLogger:101 - [*] "test24user" passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:28:56 TRACE accessLogger:104 - [*] EntityManager created successfully from getUser method in UsersDAOImpl class
+2017-11-03 12:28:57 TRACE accessLogger:107 - [*] EntityManager closed successfully from from getUser method in UsersDAOImpl class
+2017-11-03 12:28:57 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:57 TRACE accessLogger:76 - [*] User ("test23user, test23pass, test23role") passed in User constructor for User class
+2017-11-03 12:28:57 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:57 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:57 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:57 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:57 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:57 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:57 TRACE accessLogger:66 - [*] User(test23user, test23pass, test23role) passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:28:57 TRACE accessLogger:69 - [*] EntityManager created successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:28:57 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:57 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:57 INFO  accessLogger:77 - [*] test23user- new user record stored into database successfully
+2017-11-03 12:28:57 TRACE accessLogger:80 - [*] EntityManager invoked getTransaction method and commit successfully from UsersDAOImpl class
+2017-11-03 12:28:57 TRACE accessLogger:83 - [*] EntityManager closed successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:28:57 TRACE accessLogger:101 - [*] "test23user" passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:28:57 TRACE accessLogger:104 - [*] EntityManager created successfully from getUser method in UsersDAOImpl class
+2017-11-03 12:28:57 TRACE accessLogger:107 - [*] EntityManager closed successfully from from getUser method in UsersDAOImpl class
+2017-11-03 12:28:57 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:57 TRACE accessLogger:76 - [*] User ("test15user, test15pass, test15role") passed in User constructor for User class
+2017-11-03 12:28:57 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:28:57 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:28:57 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:28:57 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:47 TRACE accessLogger:76 - [*] User ("test2user, test2pass, test2role") passed in User constructor for User class
+2017-11-03 12:29:47 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:47 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:47 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:47 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:47 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:47 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:47 TRACE accessLogger:66 - [*] User(test2user, test2pass, test2role) passed into writeUser method invoked from DatabaseWriteCommand class
+2017-11-03 12:29:47 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:47 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:47 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:47 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:47 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:47 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:47 TRACE accessLogger:66 - [*] User(test2user, test2pass, test2role) passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:29:47 TRACE accessLogger:69 - [*] EntityManager created successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:29:47 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:77 - [*] test2user- new user record stored into database successfully
+2017-11-03 12:29:48 TRACE accessLogger:80 - [*] EntityManager invoked getTransaction method and commit successfully from UsersDAOImpl class
+2017-11-03 12:29:48 TRACE accessLogger:83 - [*] EntityManager closed successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:29:48 TRACE accessLogger:55 - [*] "test2user" passed into readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:29:48 TRACE accessLogger:101 - [*] "test2user" passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:29:48 TRACE accessLogger:104 - [*] EntityManager created successfully from getUser method in UsersDAOImpl class
+2017-11-03 12:29:48 TRACE accessLogger:107 - [*] EntityManager closed successfully from from getUser method in UsersDAOImpl class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:58 - [*] User(test2user, test2pass, test2role) returned by readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:29:48 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:48 TRACE accessLogger:76 - [*] User ("test1user, test1pass, test1role") passed in User constructor for User class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:48 TRACE accessLogger:66 - [*] User(test1user, test1pass, test1role) passed into writeUser method invoked from DatabaseWriteCommand class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:48 TRACE accessLogger:66 - [*] User(test1user, test1pass, test1role) passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:29:48 TRACE accessLogger:69 - [*] EntityManager created successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:77 - [*] test1user- new user record stored into database successfully
+2017-11-03 12:29:48 TRACE accessLogger:80 - [*] EntityManager invoked getTransaction method and commit successfully from UsersDAOImpl class
+2017-11-03 12:29:48 TRACE accessLogger:83 - [*] EntityManager closed successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:29:48 TRACE accessLogger:55 - [*] "test1user" passed into readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:29:48 TRACE accessLogger:101 - [*] "test1user" passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:29:48 TRACE accessLogger:104 - [*] EntityManager created successfully from getUser method in UsersDAOImpl class
+2017-11-03 12:29:48 TRACE accessLogger:107 - [*] EntityManager closed successfully from from getUser method in UsersDAOImpl class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:58 - [*] User(test1user, test1pass, test1role) returned by readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 TRACE accessLogger:76 - [*] User ("test3user, test3pass, test3role") passed in User constructor for User class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:48 TRACE accessLogger:66 - [*] User(test3user, test3pass, test3role) passed into writeUser method invoked from DatabaseWriteCommand class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:48 TRACE accessLogger:66 - [*] User(test3user, test3pass, test3role) passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:29:48 TRACE accessLogger:69 - [*] EntityManager created successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:77 - [*] test3user- new user record stored into database successfully
+2017-11-03 12:29:48 TRACE accessLogger:80 - [*] EntityManager invoked getTransaction method and commit successfully from UsersDAOImpl class
+2017-11-03 12:29:48 TRACE accessLogger:83 - [*] EntityManager closed successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:29:48 TRACE accessLogger:55 - [*] "test3user" passed into readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:29:48 TRACE accessLogger:101 - [*] "test3user" passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:29:48 TRACE accessLogger:104 - [*] EntityManager created successfully from getUser method in UsersDAOImpl class
+2017-11-03 12:29:48 TRACE accessLogger:107 - [*] EntityManager closed successfully from from getUser method in UsersDAOImpl class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:58 - [*] User(test3user, test3pass, test3role) returned by readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:29:48 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:48 TRACE accessLogger:76 - [*] User ("test7user, test7pass, test7role") passed in User constructor for User class
+2017-11-03 12:29:48 TRACE accessLogger:76 - [*] User ("test7user, test7Updatepass, test7Updaterole") passed in User constructor for User class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:48 TRACE accessLogger:66 - [*] User(test7user, test7pass, test7role) passed into writeUser method invoked from DatabaseWriteCommand class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:48 TRACE accessLogger:66 - [*] User(test7user, test7pass, test7role) passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:29:48 TRACE accessLogger:69 - [*] EntityManager created successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:77 - [*] test7user- new user record stored into database successfully
+2017-11-03 12:29:48 TRACE accessLogger:80 - [*] EntityManager invoked getTransaction method and commit successfully from UsersDAOImpl class
+2017-11-03 12:29:48 TRACE accessLogger:83 - [*] EntityManager closed successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:48 TRACE accessLogger:107 - [*] User(test7user, test7Updatepass, test7Updaterole) passed into writeUpdateUser method invoked from DatabaseWriteCommand class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:48 TRACE accessLogger:142 - [*] User(test7user, test7Updatepass, test7Updaterole) passed into updateUser method invoked from UsersDAOImpl class
+2017-11-03 12:29:48 TRACE accessLogger:145 - [*] EntityManager created successfully from updateUser method in UsersDAOImpl class
+2017-11-03 12:29:48 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 TRACE accessLogger:150 - [*] EntityManager invoked getTransaction method and commit successfully from UsersDAOImpl class
+2017-11-03 12:29:48 TRACE accessLogger:153 - [*] EntityManager closed successfully from updateUser method in UsersDAOImpl class
+2017-11-03 12:29:48 TRACE accessLogger:55 - [*] "test7user" passed into readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:29:48 TRACE accessLogger:101 - [*] "test7user" passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:29:48 TRACE accessLogger:104 - [*] EntityManager created successfully from getUser method in UsersDAOImpl class
+2017-11-03 12:29:48 TRACE accessLogger:107 - [*] EntityManager closed successfully from from getUser method in UsersDAOImpl class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:58 - [*] User(test7user, test7Updatepass, test7Updaterole) returned by readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:29:48 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:48 TRACE accessLogger:76 - [*] User ("test6user, test6pass, test6role") passed in User constructor for User class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:48 TRACE accessLogger:66 - [*] User(test6user, test6pass, test6role) passed into writeUser method invoked from DatabaseWriteCommand class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:48 TRACE accessLogger:66 - [*] User(test6user, test6pass, test6role) passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:29:48 TRACE accessLogger:69 - [*] EntityManager created successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:48 INFO  accessLogger:77 - [*] test6user- new user record stored into database successfully
+2017-11-03 12:29:48 TRACE accessLogger:80 - [*] EntityManager invoked getTransaction method and commit successfully from UsersDAOImpl class
+2017-11-03 12:29:48 TRACE accessLogger:83 - [*] EntityManager closed successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:29:48 TRACE accessLogger:55 - [*] "test6user" passed into readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:29:48 TRACE accessLogger:101 - [*] "test6user" passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:29:48 TRACE accessLogger:104 - [*] EntityManager created successfully from getUser method in UsersDAOImpl class
+2017-11-03 12:29:49 TRACE accessLogger:107 - [*] EntityManager closed successfully from from getUser method in UsersDAOImpl class
+2017-11-03 12:29:49 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:49 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:49 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:49 INFO  accessLogger:58 - [*] User(test6user, test6pass, test6role) returned by readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:29:49 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:49 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:49 TRACE accessLogger:73 - [*] User ("test144user, test144pass, test144role") passed in registerNewUser method for RegistrationController class
+2017-11-03 12:29:49 TRACE accessLogger:55 - [*] "test144user" passed into readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:29:49 TRACE accessLogger:101 - [*] "test144user" passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:29:49 TRACE accessLogger:104 - [*] EntityManager created successfully from getUser method in UsersDAOImpl class
+2017-11-03 12:29:49 TRACE accessLogger:107 - [*] EntityManager closed successfully from from getUser method in UsersDAOImpl class
+2017-11-03 12:29:49 TRACE accessLogger:67 - [*] Strings ("test144user, test144pass, test144role") passed in createUser method for UserFactory class
+2017-11-03 12:29:49 TRACE accessLogger:76 - [*] User ("test144user, test144pass, test144role") passed in User constructor for User class
+2017-11-03 12:29:49 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:49 TRACE accessLogger:79 - [*] test144user- new user object created in registerNewUser method for RegistrationController class
+2017-11-03 12:29:49 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:49 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:49 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:49 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:49 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:49 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:49 TRACE accessLogger:66 - [*] User(test144user, test144pass, test144role) passed into writeUser method invoked from DatabaseWriteCommand class
+2017-11-03 12:29:49 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:49 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:49 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:49 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:49 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:49 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:49 TRACE accessLogger:66 - [*] User(test144user, test144pass, test144role) passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:29:49 TRACE accessLogger:69 - [*] EntityManager created successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:29:49 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:49 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:49 INFO  accessLogger:77 - [*] test144user- new user record stored into database successfully
+2017-11-03 12:29:50 TRACE accessLogger:80 - [*] EntityManager invoked getTransaction method and commit successfully from UsersDAOImpl class
+2017-11-03 12:29:50 TRACE accessLogger:83 - [*] EntityManager closed successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:29:50 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:50 INFO  accessLogger:83 - [*] test144user- new user record stored into database successfully
+2017-11-03 12:29:50 TRACE accessLogger:73 - [*] User ("test144user, updatetest144pass, updatetest144role") passed in registerNewUser method for RegistrationController class
+2017-11-03 12:29:50 TRACE accessLogger:55 - [*] "test144user" passed into readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:29:50 TRACE accessLogger:101 - [*] "test144user" passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:29:50 TRACE accessLogger:104 - [*] EntityManager created successfully from getUser method in UsersDAOImpl class
+2017-11-03 12:29:50 TRACE accessLogger:107 - [*] EntityManager closed successfully from from getUser method in UsersDAOImpl class
+2017-11-03 12:29:50 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:50 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:29:50 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:29:50 INFO  accessLogger:58 - [*] User(test144user, test144pass, test144role) returned by readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:29:50 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:29:50 TRACE accessLogger:86 - [*] test144user- duplicate user object passed in registerNewUser method for RegistrationController class
+2017-11-03 12:29:50 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:06 TRACE accessLogger:94 - [*] test144user- updated user object passed in registerNewUser method for RegistrationController class
+2017-11-03 12:30:06 TRACE accessLogger:67 - [*] Strings ("test144user, updatetest144pass, updatetest144role") passed in createUser method for UserFactory class
+2017-11-03 12:30:06 TRACE accessLogger:76 - [*] User ("test144user, updatetest144pass, updatetest144role") passed in User constructor for User class
+2017-11-03 12:30:06 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:06 TRACE accessLogger:97 - [*] test144user- updated user object created in registerNewUser method for RegistrationController class
+2017-11-03 12:30:06 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:30:06 TRACE accessLogger:107 - [*] User(test144user, updatetest144pass, updatetest144role) passed into writeUpdateUser method invoked from DatabaseWriteCommand class
+2017-11-03 12:30:06 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:30:06 TRACE accessLogger:142 - [*] User(test144user, updatetest144pass, updatetest144role) passed into updateUser method invoked from UsersDAOImpl class
+2017-11-03 12:30:06 TRACE accessLogger:145 - [*] EntityManager created successfully from updateUser method in UsersDAOImpl class
+2017-11-03 12:30:06 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:06 TRACE accessLogger:150 - [*] EntityManager invoked getTransaction method and commit successfully from UsersDAOImpl class
+2017-11-03 12:30:06 TRACE accessLogger:153 - [*] EntityManager closed successfully from updateUser method in UsersDAOImpl class
+2017-11-03 12:30:06 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:101 - [*] test144user- user record updated into database successfully
+2017-11-03 12:30:06 TRACE accessLogger:55 - [*] "test144user" passed into readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:30:06 TRACE accessLogger:101 - [*] "test144user" passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:30:06 TRACE accessLogger:104 - [*] EntityManager created successfully from getUser method in UsersDAOImpl class
+2017-11-03 12:30:06 TRACE accessLogger:107 - [*] EntityManager closed successfully from from getUser method in UsersDAOImpl class
+2017-11-03 12:30:06 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:58 - [*] User(test144user, updatetest144pass, updatetest144role) returned by readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:30:06 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:30:06 TRACE accessLogger:73 - [*] User ("test14user, test14pass, test14role") passed in registerNewUser method for RegistrationController class
+2017-11-03 12:30:06 TRACE accessLogger:55 - [*] "test14user" passed into readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:30:06 TRACE accessLogger:101 - [*] "test14user" passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:30:06 TRACE accessLogger:104 - [*] EntityManager created successfully from getUser method in UsersDAOImpl class
+2017-11-03 12:30:06 TRACE accessLogger:107 - [*] EntityManager closed successfully from from getUser method in UsersDAOImpl class
+2017-11-03 12:30:06 TRACE accessLogger:67 - [*] Strings ("test14user, test14pass, test14role") passed in createUser method for UserFactory class
+2017-11-03 12:30:06 TRACE accessLogger:76 - [*] User ("test14user, test14pass, test14role") passed in User constructor for User class
+2017-11-03 12:30:06 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:06 TRACE accessLogger:79 - [*] test14user- new user object created in registerNewUser method for RegistrationController class
+2017-11-03 12:30:06 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:30:06 TRACE accessLogger:66 - [*] User(test14user, test14pass, test14role) passed into writeUser method invoked from DatabaseWriteCommand class
+2017-11-03 12:30:06 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:30:06 TRACE accessLogger:66 - [*] User(test14user, test14pass, test14role) passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:30:06 TRACE accessLogger:69 - [*] EntityManager created successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:30:06 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:77 - [*] test14user- new user record stored into database successfully
+2017-11-03 12:30:06 TRACE accessLogger:80 - [*] EntityManager invoked getTransaction method and commit successfully from UsersDAOImpl class
+2017-11-03 12:30:06 TRACE accessLogger:83 - [*] EntityManager closed successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:30:06 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:83 - [*] test14user- new user record stored into database successfully
+2017-11-03 12:30:06 TRACE accessLogger:55 - [*] "test14user" passed into readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:30:06 TRACE accessLogger:101 - [*] "test14user" passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:30:06 TRACE accessLogger:104 - [*] EntityManager created successfully from getUser method in UsersDAOImpl class
+2017-11-03 12:30:06 TRACE accessLogger:107 - [*] EntityManager closed successfully from from getUser method in UsersDAOImpl class
+2017-11-03 12:30:06 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:30:06 INFO  accessLogger:58 - [*] User(test14user, test14pass, test14role) returned by readUser method invoked from DatabaseReadCommand class
+2017-11-03 12:30:06 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:30:06 TRACE accessLogger:67 - [*] Strings ("test19user, test19pass, test19role") passed in createUser method for UserFactory class
+2017-11-03 12:30:06 TRACE accessLogger:76 - [*] User ("test19user, test19pass, test19role") passed in User constructor for User class
+2017-11-03 12:30:06 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:30:07 TRACE accessLogger:76 - [*] User ("test24user, test24pass, test24role") passed in User constructor for User class
+2017-11-03 12:30:07 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:07 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:30:07 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:30:07 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:07 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:30:07 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:30:07 TRACE accessLogger:66 - [*] User(test24user, test24pass, test24role) passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:30:07 TRACE accessLogger:69 - [*] EntityManager created successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:30:07 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:07 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:07 INFO  accessLogger:77 - [*] test24user- new user record stored into database successfully
+2017-11-03 12:30:07 TRACE accessLogger:80 - [*] EntityManager invoked getTransaction method and commit successfully from UsersDAOImpl class
+2017-11-03 12:30:07 TRACE accessLogger:83 - [*] EntityManager closed successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:30:07 TRACE accessLogger:76 - [*] User ("test24user, updatetest24pass, updatetest24role") passed in User constructor for User class
+2017-11-03 12:30:07 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:07 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:30:07 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:30:07 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:07 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:30:07 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:30:07 TRACE accessLogger:142 - [*] User(test24user, updatetest24pass, updatetest24role) passed into updateUser method invoked from UsersDAOImpl class
+2017-11-03 12:30:07 TRACE accessLogger:145 - [*] EntityManager created successfully from updateUser method in UsersDAOImpl class
+2017-11-03 12:30:07 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:30:07 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:30:07 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:07 TRACE accessLogger:150 - [*] EntityManager invoked getTransaction method and commit successfully from UsersDAOImpl class
+2017-11-03 12:30:07 TRACE accessLogger:153 - [*] EntityManager closed successfully from updateUser method in UsersDAOImpl class
+2017-11-03 12:30:07 TRACE accessLogger:101 - [*] "test24user" passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:30:07 TRACE accessLogger:104 - [*] EntityManager created successfully from getUser method in UsersDAOImpl class
+2017-11-03 12:30:07 TRACE accessLogger:107 - [*] EntityManager closed successfully from from getUser method in UsersDAOImpl class
+2017-11-03 12:30:07 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:30:07 TRACE accessLogger:76 - [*] User ("test23user, test23pass, test23role") passed in User constructor for User class
+2017-11-03 12:30:07 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:07 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:30:07 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:30:07 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:07 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:30:07 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:30:07 TRACE accessLogger:66 - [*] User(test23user, test23pass, test23role) passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:30:07 TRACE accessLogger:69 - [*] EntityManager created successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:30:07 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:07 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:07 INFO  accessLogger:77 - [*] test23user- new user record stored into database successfully
+2017-11-03 12:30:07 TRACE accessLogger:80 - [*] EntityManager invoked getTransaction method and commit successfully from UsersDAOImpl class
+2017-11-03 12:30:07 TRACE accessLogger:83 - [*] EntityManager closed successfully from addUser method in UsersDAOImpl class
+2017-11-03 12:30:07 TRACE accessLogger:101 - [*] "test23user" passed into addUser method invoked from UsersDAOImpl class
+2017-11-03 12:30:07 TRACE accessLogger:104 - [*] EntityManager created successfully from getUser method in UsersDAOImpl class
+2017-11-03 12:30:07 TRACE accessLogger:107 - [*] EntityManager closed successfully from from getUser method in UsersDAOImpl class
+2017-11-03 12:30:07 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:30:07 TRACE accessLogger:76 - [*] User ("test15user, test15pass, test15role") passed in User constructor for User class
+2017-11-03 12:30:07 INFO  accessLogger:116 - [*] getPassword method invoked from User class
+2017-11-03 12:30:07 INFO  accessLogger:143 - [*] getRole method invoked from User class
+2017-11-03 12:30:07 INFO  accessLogger:89 - [*] getUsername method invoked from User class
+2017-11-03 12:30:07 INFO  accessLogger:89 - [*] getUsername method invoked from User class
