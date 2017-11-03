@@ -1,0 +1,869 @@
+2017-11-01 11:02:58 DEBUG accessLogger:82 - "Yash"- Checking for existing user into database
+2017-11-01 11:02:58 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:02:58 DEBUG accessLogger:53 - user_information.txt file doesn't exist
+2017-11-01 11:02:58 INFO  accessLogger:55 - user_information.txt file created
+2017-11-01 11:02:58 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:02:58 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:04:02 DEBUG accessLogger:102 - "Yash"- Checking for existing user into database
+2017-11-01 11:04:02 DEBUG accessLogger:105 - "SELECT" argument detected for getInCommand Method
+2017-11-01 11:04:02 TRACE accessLogger:40 - [*]Creating statement... - getUser
+2017-11-01 11:04:02 TRACE accessLogger:44 - [*]Looking for the record... - getUser
+2017-11-01 11:04:02 TRACE accessLogger:61 - [*]Connection closed... - getUser
+2017-11-01 11:04:02 DEBUG accessLogger:113 - "Yash"- Creating a new user into database
+2017-11-01 11:04:02 DEBUG accessLogger:52 - Yash New User object created
+2017-11-01 11:04:02 INFO  accessLogger:42 - Yash User object created
+2017-11-01 11:04:02 DEBUG accessLogger:72 - "INSERT" argument detected for getInCommand Method
+2017-11-01 11:04:02 TRACE accessLogger:45 - [*]Creating preparestatement...- addUser
+2017-11-01 11:04:03 TRACE accessLogger:53 - [*]Inserted seccessfully...- addUser
+2017-11-01 11:04:03 TRACE accessLogger:63 - [*]Connection closed... - addUser
+2017-11-01 11:04:19 DEBUG accessLogger:102 - "Yash"- Checking for existing user into database
+2017-11-01 11:04:19 DEBUG accessLogger:105 - "SELECT" argument detected for getInCommand Method
+2017-11-01 11:04:19 TRACE accessLogger:40 - [*]Creating statement... - getUser
+2017-11-01 11:04:19 TRACE accessLogger:44 - [*]Looking for the record... - getUser
+2017-11-01 11:04:19 TRACE accessLogger:61 - [*]Connection closed... - getUser
+2017-11-01 11:04:25 DEBUG accessLogger:82 - "Yash"- Checking for existing user into database
+2017-11-01 11:04:25 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:04:26 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:04:26 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:08:09 DEBUG accessLogger:82 - "Yash"- Checking for existing user into database
+2017-11-01 11:08:09 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:08:09 INFO  accessLogger:79 - BufferReader closed
+2017-11-01 11:08:09 INFO  accessLogger:83 - FileReader closed
+2017-11-01 11:08:09 DEBUG accessLogger:93 - "Yash"- Creating a new user into database
+2017-11-01 11:08:09 DEBUG accessLogger:52 - Yash New User object created
+2017-11-01 11:08:09 INFO  accessLogger:42 - Yash User object created
+2017-11-01 11:08:09 DEBUG accessLogger:67 - "WRITE" argument detected for getInCommand Method
+2017-11-01 11:08:09 DEBUG accessLogger:51 - new user="Yash" registration detected for writeUser Method
+2017-11-01 11:08:09 INFO  accessLogger:53 - BufferWriter closed
+2017-11-01 11:08:09 INFO  accessLogger:56 - FileWriter closed
+2017-11-01 11:08:14 DEBUG accessLogger:82 - "Yash2"- Checking for existing user into database
+2017-11-01 11:08:14 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:09:48 DEBUG accessLogger:82 - "Yash"- Checking for existing user into database
+2017-11-01 11:09:48 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:09:48 INFO  accessLogger:66 - Yash New user object created
+2017-11-01 11:11:20 DEBUG accessLogger:82 - "Yash"- Checking for existing user into database
+2017-11-01 11:11:20 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:11:20 INFO  accessLogger:66 - User(Yash,Password,Admin) New user object created
+2017-11-01 11:11:52 DEBUG accessLogger:82 - "Yash"- Checking for existing user into database
+2017-11-01 11:11:52 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:11:52 INFO  accessLogger:66 - User(Yash,Password,Admin) New user object created
+2017-11-01 11:13:45 DEBUG accessLogger:82 - "Yash"- Checking for existing user into database
+2017-11-01 11:13:45 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:13:45 INFO  accessLogger:66 - User(Yash,Password,Admin) New user object created
+2017-11-01 11:14:15 DEBUG accessLogger:82 - "Yash"- Checking for existing user into database
+2017-11-01 11:14:15 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:14:15 INFO  accessLogger:66 - User(Yash,Password,Admin) New user object created
+2017-11-01 11:14:15 INFO  accessLogger:77 - BufferReader closed
+2017-11-01 11:14:15 INFO  accessLogger:81 - FileReader closed
+2017-11-01 11:14:31 DEBUG accessLogger:82 - "Yash"- Checking for existing user into database
+2017-11-01 11:14:31 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:14:31 INFO  accessLogger:66 - User(Yash,Password,Admin) New user object created
+2017-11-01 11:14:31 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:14:31 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:15:05 DEBUG accessLogger:82 - "Yash"- Checking for existing user into database
+2017-11-01 11:15:05 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:15:05 INFO  accessLogger:66 - User(Yash,Password,Admin) New user object created
+2017-11-01 11:15:05 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:15:05 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:15:08 DEBUG accessLogger:82 - "Yash2"- Checking for existing user into database
+2017-11-01 11:15:08 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:15:08 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:15:08 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:15:08 DEBUG accessLogger:93 - "Yash2"- Creating a new user into database
+2017-11-01 11:15:08 DEBUG accessLogger:52 - Yash2 New User object created
+2017-11-01 11:15:08 INFO  accessLogger:42 - Yash2 User object created
+2017-11-01 11:15:08 DEBUG accessLogger:67 - "WRITE" argument detected for getInCommand Method
+2017-11-01 11:15:08 DEBUG accessLogger:51 - new user="Yash2" registration detected for writeUser Method
+2017-11-01 11:15:08 INFO  accessLogger:53 - BufferWriter closed
+2017-11-01 11:15:08 INFO  accessLogger:56 - FileWriter closed
+2017-11-01 11:15:09 DEBUG accessLogger:82 - "Yash3"- Checking for existing user into database
+2017-11-01 11:15:09 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:15:09 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:15:09 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:15:09 DEBUG accessLogger:93 - "Yash3"- Creating a new user into database
+2017-11-01 11:15:09 DEBUG accessLogger:52 - Yash3 New User object created
+2017-11-01 11:15:09 INFO  accessLogger:42 - Yash3 User object created
+2017-11-01 11:15:09 DEBUG accessLogger:67 - "WRITE" argument detected for getInCommand Method
+2017-11-01 11:15:09 DEBUG accessLogger:51 - new user="Yash3" registration detected for writeUser Method
+2017-11-01 11:15:09 INFO  accessLogger:53 - BufferWriter closed
+2017-11-01 11:15:09 INFO  accessLogger:56 - FileWriter closed
+2017-11-01 11:15:09 DEBUG accessLogger:82 - "Yash4"- Checking for existing user into database
+2017-11-01 11:15:09 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:15:09 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:15:09 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:15:09 DEBUG accessLogger:93 - "Yash4"- Creating a new user into database
+2017-11-01 11:15:09 DEBUG accessLogger:52 - Yash4 New User object created
+2017-11-01 11:15:09 INFO  accessLogger:42 - Yash4 User object created
+2017-11-01 11:15:09 DEBUG accessLogger:67 - "WRITE" argument detected for getInCommand Method
+2017-11-01 11:15:09 DEBUG accessLogger:51 - new user="Yash4" registration detected for writeUser Method
+2017-11-01 11:15:09 INFO  accessLogger:53 - BufferWriter closed
+2017-11-01 11:15:09 INFO  accessLogger:56 - FileWriter closed
+2017-11-01 11:15:10 DEBUG accessLogger:82 - "Yash1"- Checking for existing user into database
+2017-11-01 11:15:10 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:15:10 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:15:10 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:15:10 DEBUG accessLogger:93 - "Yash1"- Creating a new user into database
+2017-11-01 11:15:10 DEBUG accessLogger:52 - Yash1 New User object created
+2017-11-01 11:15:10 INFO  accessLogger:42 - Yash1 User object created
+2017-11-01 11:15:10 DEBUG accessLogger:67 - "WRITE" argument detected for getInCommand Method
+2017-11-01 11:15:10 DEBUG accessLogger:51 - new user="Yash1" registration detected for writeUser Method
+2017-11-01 11:15:10 INFO  accessLogger:53 - BufferWriter closed
+2017-11-01 11:15:10 INFO  accessLogger:56 - FileWriter closed
+2017-11-01 11:15:10 DEBUG accessLogger:82 - "Yash5"- Checking for existing user into database
+2017-11-01 11:15:10 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:15:10 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:15:10 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:15:10 DEBUG accessLogger:93 - "Yash5"- Creating a new user into database
+2017-11-01 11:15:10 DEBUG accessLogger:52 - Yash5 New User object created
+2017-11-01 11:15:10 INFO  accessLogger:42 - Yash5 User object created
+2017-11-01 11:15:10 DEBUG accessLogger:67 - "WRITE" argument detected for getInCommand Method
+2017-11-01 11:15:10 DEBUG accessLogger:51 - new user="Yash5" registration detected for writeUser Method
+2017-11-01 11:15:10 INFO  accessLogger:53 - BufferWriter closed
+2017-11-01 11:15:10 INFO  accessLogger:56 - FileWriter closed
+2017-11-01 11:15:11 DEBUG accessLogger:82 - "Yash2"- Checking for existing user into database
+2017-11-01 11:15:11 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:15:11 INFO  accessLogger:66 - User(Yash2,Password,Admin) New user object created
+2017-11-01 11:15:11 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:15:11 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:15:11 DEBUG accessLogger:82 - "Yash3"- Checking for existing user into database
+2017-11-01 11:15:11 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:15:11 INFO  accessLogger:66 - User(Yash3,Password,Admin) New user object created
+2017-11-01 11:15:11 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:15:11 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:15:11 DEBUG accessLogger:82 - "Yash8"- Checking for existing user into database
+2017-11-01 11:15:11 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:15:11 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:15:11 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:15:11 DEBUG accessLogger:93 - "Yash8"- Creating a new user into database
+2017-11-01 11:15:11 DEBUG accessLogger:52 - Yash8 New User object created
+2017-11-01 11:15:11 INFO  accessLogger:42 - Yash8 User object created
+2017-11-01 11:15:11 DEBUG accessLogger:67 - "WRITE" argument detected for getInCommand Method
+2017-11-01 11:15:11 DEBUG accessLogger:51 - new user="Yash8" registration detected for writeUser Method
+2017-11-01 11:15:11 INFO  accessLogger:53 - BufferWriter closed
+2017-11-01 11:15:11 INFO  accessLogger:56 - FileWriter closed
+2017-11-01 11:15:13 DEBUG accessLogger:82 - "Yash9"- Checking for existing user into database
+2017-11-01 11:15:13 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:15:13 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:15:13 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:15:13 DEBUG accessLogger:93 - "Yash9"- Creating a new user into database
+2017-11-01 11:15:13 DEBUG accessLogger:52 - Yash9 New User object created
+2017-11-01 11:15:13 INFO  accessLogger:42 - Yash9 User object created
+2017-11-01 11:15:13 DEBUG accessLogger:67 - "WRITE" argument detected for getInCommand Method
+2017-11-01 11:15:13 DEBUG accessLogger:51 - new user="Yash9" registration detected for writeUser Method
+2017-11-01 11:15:13 INFO  accessLogger:53 - BufferWriter closed
+2017-11-01 11:15:13 INFO  accessLogger:56 - FileWriter closed
+2017-11-01 11:15:14 DEBUG accessLogger:82 - "Yash10"- Checking for existing user into database
+2017-11-01 11:15:14 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:15:14 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:15:14 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:15:14 DEBUG accessLogger:93 - "Yash10"- Creating a new user into database
+2017-11-01 11:15:14 DEBUG accessLogger:52 - Yash10 New User object created
+2017-11-01 11:15:14 INFO  accessLogger:42 - Yash10 User object created
+2017-11-01 11:15:14 DEBUG accessLogger:67 - "WRITE" argument detected for getInCommand Method
+2017-11-01 11:15:14 DEBUG accessLogger:51 - new user="Yash10" registration detected for writeUser Method
+2017-11-01 11:15:14 INFO  accessLogger:53 - BufferWriter closed
+2017-11-01 11:15:14 INFO  accessLogger:56 - FileWriter closed
+2017-11-01 11:15:14 DEBUG accessLogger:82 - "Yash65"- Checking for existing user into database
+2017-11-01 11:15:14 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:15:14 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:15:14 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:15:14 DEBUG accessLogger:93 - "Yash65"- Creating a new user into database
+2017-11-01 11:15:14 DEBUG accessLogger:52 - Yash65 New User object created
+2017-11-01 11:15:14 INFO  accessLogger:42 - Yash65 User object created
+2017-11-01 11:15:14 DEBUG accessLogger:67 - "WRITE" argument detected for getInCommand Method
+2017-11-01 11:15:14 DEBUG accessLogger:51 - new user="Yash65" registration detected for writeUser Method
+2017-11-01 11:15:14 INFO  accessLogger:53 - BufferWriter closed
+2017-11-01 11:15:14 INFO  accessLogger:56 - FileWriter closed
+2017-11-01 11:15:20 DEBUG accessLogger:82 - "Yash"- Checking for existing user into database
+2017-11-01 11:15:20 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:15:20 INFO  accessLogger:66 - User(Yash,Password,Admin) New user object created
+2017-11-01 11:15:20 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:15:20 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:15:22 DEBUG accessLogger:82 - "Yash2"- Checking for existing user into database
+2017-11-01 11:15:22 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:15:22 INFO  accessLogger:66 - User(Yash2,Password,Admin) New user object created
+2017-11-01 11:15:22 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:15:22 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:15:23 DEBUG accessLogger:82 - "Yash3"- Checking for existing user into database
+2017-11-01 11:15:23 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:15:23 INFO  accessLogger:66 - User(Yash3,Password,Admin) New user object created
+2017-11-01 11:15:23 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:15:23 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:15:23 DEBUG accessLogger:82 - "Yash4"- Checking for existing user into database
+2017-11-01 11:15:23 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:15:23 INFO  accessLogger:66 - User(Yash4,Password,Admin) New user object created
+2017-11-01 11:15:23 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:15:23 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:15:24 DEBUG accessLogger:82 - "Yash1"- Checking for existing user into database
+2017-11-01 11:15:24 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:15:24 INFO  accessLogger:66 - User(Yash1,Password1,Admin1) New user object created
+2017-11-01 11:15:24 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:15:24 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:15:25 DEBUG accessLogger:82 - "Yash5"- Checking for existing user into database
+2017-11-01 11:15:25 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:15:25 INFO  accessLogger:66 - User(Yash5,Password,Admin) New user object created
+2017-11-01 11:15:25 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:15:25 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:15:25 DEBUG accessLogger:82 - "Yash2"- Checking for existing user into database
+2017-11-01 11:15:25 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:15:25 INFO  accessLogger:66 - User(Yash2,Password,Admin) New user object created
+2017-11-01 11:15:25 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:15:25 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:15:26 DEBUG accessLogger:82 - "Yash3"- Checking for existing user into database
+2017-11-01 11:15:26 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:15:26 INFO  accessLogger:66 - User(Yash3,Password,Admin) New user object created
+2017-11-01 11:15:26 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:15:26 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:15:27 DEBUG accessLogger:82 - "Yash8"- Checking for existing user into database
+2017-11-01 11:15:27 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:15:27 INFO  accessLogger:66 - User(Yash8,Password,Admin) New user object created
+2017-11-01 11:15:27 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:15:27 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:15:27 DEBUG accessLogger:82 - "Yash9"- Checking for existing user into database
+2017-11-01 11:15:27 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:15:27 INFO  accessLogger:66 - User(Yash9,Password,Admin) New user object created
+2017-11-01 11:15:27 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:15:27 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:15:28 DEBUG accessLogger:82 - "Yash10"- Checking for existing user into database
+2017-11-01 11:15:28 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:15:28 INFO  accessLogger:66 - User(Yash10,Password,Admin) New user object created
+2017-11-01 11:15:28 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:15:28 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:15:29 DEBUG accessLogger:82 - "Yash65"- Checking for existing user into database
+2017-11-01 11:15:29 DEBUG accessLogger:100 - "READ" argument detected for getInCommand Method
+2017-11-01 11:15:29 INFO  accessLogger:66 - User(Yash65,98996,User) New user object created
+2017-11-01 11:15:29 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:15:29 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:15:34 DEBUG accessLogger:102 - "Yash"- Checking for existing user into database
+2017-11-01 11:15:34 DEBUG accessLogger:105 - "SELECT" argument detected for getInCommand Method
+2017-11-01 11:15:34 TRACE accessLogger:40 - [*]Creating statement... - getUser
+2017-11-01 11:15:34 TRACE accessLogger:44 - [*]Looking for the record... - getUser
+2017-11-01 11:15:34 TRACE accessLogger:61 - [*]Connection closed... - getUser
+2017-11-01 11:15:36 DEBUG accessLogger:102 - "Yash2"- Checking for existing user into database
+2017-11-01 11:15:36 DEBUG accessLogger:105 - "SELECT" argument detected for getInCommand Method
+2017-11-01 11:15:36 TRACE accessLogger:40 - [*]Creating statement... - getUser
+2017-11-01 11:15:36 TRACE accessLogger:44 - [*]Looking for the record... - getUser
+2017-11-01 11:15:36 TRACE accessLogger:61 - [*]Connection closed... - getUser
+2017-11-01 11:15:36 DEBUG accessLogger:113 - "Yash2"- Creating a new user into database
+2017-11-01 11:15:36 DEBUG accessLogger:52 - Yash2 New User object created
+2017-11-01 11:15:36 INFO  accessLogger:42 - Yash2 User object created
+2017-11-01 11:15:36 DEBUG accessLogger:72 - "INSERT" argument detected for getInCommand Method
+2017-11-01 11:15:36 TRACE accessLogger:45 - [*]Creating preparestatement...- addUser
+2017-11-01 11:15:36 TRACE accessLogger:53 - [*]Inserted seccessfully...- addUser
+2017-11-01 11:15:36 TRACE accessLogger:63 - [*]Connection closed... - addUser
+2017-11-01 11:15:37 DEBUG accessLogger:102 - "Yash3"- Checking for existing user into database
+2017-11-01 11:15:37 DEBUG accessLogger:105 - "SELECT" argument detected for getInCommand Method
+2017-11-01 11:15:37 TRACE accessLogger:40 - [*]Creating statement... - getUser
+2017-11-01 11:15:37 TRACE accessLogger:44 - [*]Looking for the record... - getUser
+2017-11-01 11:15:37 TRACE accessLogger:61 - [*]Connection closed... - getUser
+2017-11-01 11:15:37 DEBUG accessLogger:113 - "Yash3"- Creating a new user into database
+2017-11-01 11:15:37 DEBUG accessLogger:52 - Yash3 New User object created
+2017-11-01 11:15:37 INFO  accessLogger:42 - Yash3 User object created
+2017-11-01 11:15:37 DEBUG accessLogger:72 - "INSERT" argument detected for getInCommand Method
+2017-11-01 11:15:37 TRACE accessLogger:45 - [*]Creating preparestatement...- addUser
+2017-11-01 11:15:37 TRACE accessLogger:53 - [*]Inserted seccessfully...- addUser
+2017-11-01 11:15:37 TRACE accessLogger:63 - [*]Connection closed... - addUser
+2017-11-01 11:15:38 DEBUG accessLogger:102 - "Yash4"- Checking for existing user into database
+2017-11-01 11:15:38 DEBUG accessLogger:105 - "SELECT" argument detected for getInCommand Method
+2017-11-01 11:15:38 TRACE accessLogger:40 - [*]Creating statement... - getUser
+2017-11-01 11:15:38 TRACE accessLogger:44 - [*]Looking for the record... - getUser
+2017-11-01 11:15:38 TRACE accessLogger:61 - [*]Connection closed... - getUser
+2017-11-01 11:15:38 DEBUG accessLogger:113 - "Yash4"- Creating a new user into database
+2017-11-01 11:15:38 DEBUG accessLogger:52 - Yash4 New User object created
+2017-11-01 11:15:38 INFO  accessLogger:42 - Yash4 User object created
+2017-11-01 11:15:38 DEBUG accessLogger:72 - "INSERT" argument detected for getInCommand Method
+2017-11-01 11:15:38 TRACE accessLogger:45 - [*]Creating preparestatement...- addUser
+2017-11-01 11:15:38 TRACE accessLogger:53 - [*]Inserted seccessfully...- addUser
+2017-11-01 11:15:38 TRACE accessLogger:63 - [*]Connection closed... - addUser
+2017-11-01 11:15:39 DEBUG accessLogger:102 - "Yash1"- Checking for existing user into database
+2017-11-01 11:15:39 DEBUG accessLogger:105 - "SELECT" argument detected for getInCommand Method
+2017-11-01 11:15:39 TRACE accessLogger:40 - [*]Creating statement... - getUser
+2017-11-01 11:15:39 TRACE accessLogger:44 - [*]Looking for the record... - getUser
+2017-11-01 11:15:39 TRACE accessLogger:61 - [*]Connection closed... - getUser
+2017-11-01 11:15:39 DEBUG accessLogger:113 - "Yash1"- Creating a new user into database
+2017-11-01 11:15:39 DEBUG accessLogger:52 - Yash1 New User object created
+2017-11-01 11:15:39 INFO  accessLogger:42 - Yash1 User object created
+2017-11-01 11:15:39 DEBUG accessLogger:72 - "INSERT" argument detected for getInCommand Method
+2017-11-01 11:15:39 TRACE accessLogger:45 - [*]Creating preparestatement...- addUser
+2017-11-01 11:15:39 TRACE accessLogger:53 - [*]Inserted seccessfully...- addUser
+2017-11-01 11:15:39 TRACE accessLogger:63 - [*]Connection closed... - addUser
+2017-11-01 11:15:40 DEBUG accessLogger:102 - "Yash5"- Checking for existing user into database
+2017-11-01 11:15:40 DEBUG accessLogger:105 - "SELECT" argument detected for getInCommand Method
+2017-11-01 11:15:40 TRACE accessLogger:40 - [*]Creating statement... - getUser
+2017-11-01 11:15:40 TRACE accessLogger:44 - [*]Looking for the record... - getUser
+2017-11-01 11:15:40 TRACE accessLogger:61 - [*]Connection closed... - getUser
+2017-11-01 11:15:40 DEBUG accessLogger:113 - "Yash5"- Creating a new user into database
+2017-11-01 11:15:40 DEBUG accessLogger:52 - Yash5 New User object created
+2017-11-01 11:15:40 INFO  accessLogger:42 - Yash5 User object created
+2017-11-01 11:15:40 DEBUG accessLogger:72 - "INSERT" argument detected for getInCommand Method
+2017-11-01 11:15:40 TRACE accessLogger:45 - [*]Creating preparestatement...- addUser
+2017-11-01 11:15:40 TRACE accessLogger:53 - [*]Inserted seccessfully...- addUser
+2017-11-01 11:15:40 TRACE accessLogger:63 - [*]Connection closed... - addUser
+2017-11-01 11:15:41 DEBUG accessLogger:102 - "Yash2"- Checking for existing user into database
+2017-11-01 11:15:41 DEBUG accessLogger:105 - "SELECT" argument detected for getInCommand Method
+2017-11-01 11:15:41 TRACE accessLogger:40 - [*]Creating statement... - getUser
+2017-11-01 11:15:41 TRACE accessLogger:44 - [*]Looking for the record... - getUser
+2017-11-01 11:15:41 TRACE accessLogger:61 - [*]Connection closed... - getUser
+2017-11-01 11:15:42 DEBUG accessLogger:102 - "Yash3"- Checking for existing user into database
+2017-11-01 11:15:42 DEBUG accessLogger:105 - "SELECT" argument detected for getInCommand Method
+2017-11-01 11:15:42 TRACE accessLogger:40 - [*]Creating statement... - getUser
+2017-11-01 11:15:42 TRACE accessLogger:44 - [*]Looking for the record... - getUser
+2017-11-01 11:15:42 TRACE accessLogger:61 - [*]Connection closed... - getUser
+2017-11-01 11:15:42 DEBUG accessLogger:102 - "Yash8"- Checking for existing user into database
+2017-11-01 11:15:42 DEBUG accessLogger:105 - "SELECT" argument detected for getInCommand Method
+2017-11-01 11:15:42 TRACE accessLogger:40 - [*]Creating statement... - getUser
+2017-11-01 11:15:42 TRACE accessLogger:44 - [*]Looking for the record... - getUser
+2017-11-01 11:15:42 TRACE accessLogger:61 - [*]Connection closed... - getUser
+2017-11-01 11:15:42 DEBUG accessLogger:113 - "Yash8"- Creating a new user into database
+2017-11-01 11:15:42 DEBUG accessLogger:52 - Yash8 New User object created
+2017-11-01 11:15:42 INFO  accessLogger:42 - Yash8 User object created
+2017-11-01 11:15:42 DEBUG accessLogger:72 - "INSERT" argument detected for getInCommand Method
+2017-11-01 11:15:42 TRACE accessLogger:45 - [*]Creating preparestatement...- addUser
+2017-11-01 11:15:42 TRACE accessLogger:53 - [*]Inserted seccessfully...- addUser
+2017-11-01 11:15:42 TRACE accessLogger:63 - [*]Connection closed... - addUser
+2017-11-01 11:15:43 DEBUG accessLogger:102 - "Yash9"- Checking for existing user into database
+2017-11-01 11:15:43 DEBUG accessLogger:105 - "SELECT" argument detected for getInCommand Method
+2017-11-01 11:15:43 TRACE accessLogger:40 - [*]Creating statement... - getUser
+2017-11-01 11:15:43 TRACE accessLogger:44 - [*]Looking for the record... - getUser
+2017-11-01 11:15:43 TRACE accessLogger:61 - [*]Connection closed... - getUser
+2017-11-01 11:15:43 DEBUG accessLogger:113 - "Yash9"- Creating a new user into database
+2017-11-01 11:15:43 DEBUG accessLogger:52 - Yash9 New User object created
+2017-11-01 11:15:43 INFO  accessLogger:42 - Yash9 User object created
+2017-11-01 11:15:43 DEBUG accessLogger:72 - "INSERT" argument detected for getInCommand Method
+2017-11-01 11:15:43 TRACE accessLogger:45 - [*]Creating preparestatement...- addUser
+2017-11-01 11:15:43 TRACE accessLogger:53 - [*]Inserted seccessfully...- addUser
+2017-11-01 11:15:43 TRACE accessLogger:63 - [*]Connection closed... - addUser
+2017-11-01 11:15:44 DEBUG accessLogger:102 - "Yash10"- Checking for existing user into database
+2017-11-01 11:15:44 DEBUG accessLogger:105 - "SELECT" argument detected for getInCommand Method
+2017-11-01 11:15:44 TRACE accessLogger:40 - [*]Creating statement... - getUser
+2017-11-01 11:15:44 TRACE accessLogger:44 - [*]Looking for the record... - getUser
+2017-11-01 11:15:44 TRACE accessLogger:61 - [*]Connection closed... - getUser
+2017-11-01 11:15:44 DEBUG accessLogger:113 - "Yash10"- Creating a new user into database
+2017-11-01 11:15:44 DEBUG accessLogger:52 - Yash10 New User object created
+2017-11-01 11:15:44 INFO  accessLogger:42 - Yash10 User object created
+2017-11-01 11:15:44 DEBUG accessLogger:72 - "INSERT" argument detected for getInCommand Method
+2017-11-01 11:15:44 TRACE accessLogger:45 - [*]Creating preparestatement...- addUser
+2017-11-01 11:15:44 TRACE accessLogger:53 - [*]Inserted seccessfully...- addUser
+2017-11-01 11:15:44 TRACE accessLogger:63 - [*]Connection closed... - addUser
+2017-11-01 11:15:45 DEBUG accessLogger:102 - "Yash65"- Checking for existing user into database
+2017-11-01 11:15:45 DEBUG accessLogger:105 - "SELECT" argument detected for getInCommand Method
+2017-11-01 11:15:45 TRACE accessLogger:40 - [*]Creating statement... - getUser
+2017-11-01 11:15:45 TRACE accessLogger:44 - [*]Looking for the record... - getUser
+2017-11-01 11:15:45 TRACE accessLogger:61 - [*]Connection closed... - getUser
+2017-11-01 11:15:45 DEBUG accessLogger:113 - "Yash65"- Creating a new user into database
+2017-11-01 11:15:45 DEBUG accessLogger:52 - Yash65 New User object created
+2017-11-01 11:15:45 INFO  accessLogger:42 - Yash65 User object created
+2017-11-01 11:15:45 DEBUG accessLogger:72 - "INSERT" argument detected for getInCommand Method
+2017-11-01 11:15:45 TRACE accessLogger:45 - [*]Creating preparestatement...- addUser
+2017-11-01 11:15:45 TRACE accessLogger:53 - [*]Inserted seccessfully...- addUser
+2017-11-01 11:15:45 TRACE accessLogger:63 - [*]Connection closed... - addUser
+2017-11-01 11:15:51 DEBUG accessLogger:102 - "Yash"- Checking for existing user into database
+2017-11-01 11:15:51 DEBUG accessLogger:105 - "SELECT" argument detected for getInCommand Method
+2017-11-01 11:15:51 TRACE accessLogger:40 - [*]Creating statement... - getUser
+2017-11-01 11:15:51 TRACE accessLogger:44 - [*]Looking for the record... - getUser
+2017-11-01 11:15:51 TRACE accessLogger:61 - [*]Connection closed... - getUser
+2017-11-01 11:15:52 DEBUG accessLogger:102 - "Yash2"- Checking for existing user into database
+2017-11-01 11:15:52 DEBUG accessLogger:105 - "SELECT" argument detected for getInCommand Method
+2017-11-01 11:15:52 TRACE accessLogger:40 - [*]Creating statement... - getUser
+2017-11-01 11:15:52 TRACE accessLogger:44 - [*]Looking for the record... - getUser
+2017-11-01 11:15:52 TRACE accessLogger:61 - [*]Connection closed... - getUser
+2017-11-01 11:15:53 DEBUG accessLogger:102 - "Yash3"- Checking for existing user into database
+2017-11-01 11:15:53 DEBUG accessLogger:105 - "SELECT" argument detected for getInCommand Method
+2017-11-01 11:15:53 TRACE accessLogger:40 - [*]Creating statement... - getUser
+2017-11-01 11:15:53 TRACE accessLogger:44 - [*]Looking for the record... - getUser
+2017-11-01 11:15:53 TRACE accessLogger:61 - [*]Connection closed... - getUser
+2017-11-01 11:15:53 DEBUG accessLogger:102 - "Yash4"- Checking for existing user into database
+2017-11-01 11:15:53 DEBUG accessLogger:105 - "SELECT" argument detected for getInCommand Method
+2017-11-01 11:15:54 TRACE accessLogger:40 - [*]Creating statement... - getUser
+2017-11-01 11:15:54 TRACE accessLogger:44 - [*]Looking for the record... - getUser
+2017-11-01 11:15:54 TRACE accessLogger:61 - [*]Connection closed... - getUser
+2017-11-01 11:15:54 DEBUG accessLogger:102 - "Yash1"- Checking for existing user into database
+2017-11-01 11:15:54 DEBUG accessLogger:105 - "SELECT" argument detected for getInCommand Method
+2017-11-01 11:15:54 TRACE accessLogger:40 - [*]Creating statement... - getUser
+2017-11-01 11:15:54 TRACE accessLogger:44 - [*]Looking for the record... - getUser
+2017-11-01 11:15:54 TRACE accessLogger:61 - [*]Connection closed... - getUser
+2017-11-01 11:15:55 DEBUG accessLogger:102 - "Yash5"- Checking for existing user into database
+2017-11-01 11:15:55 DEBUG accessLogger:105 - "SELECT" argument detected for getInCommand Method
+2017-11-01 11:15:55 TRACE accessLogger:40 - [*]Creating statement... - getUser
+2017-11-01 11:15:55 TRACE accessLogger:44 - [*]Looking for the record... - getUser
+2017-11-01 11:15:55 TRACE accessLogger:61 - [*]Connection closed... - getUser
+2017-11-01 11:15:56 DEBUG accessLogger:102 - "Yash2"- Checking for existing user into database
+2017-11-01 11:15:56 DEBUG accessLogger:105 - "SELECT" argument detected for getInCommand Method
+2017-11-01 11:15:56 TRACE accessLogger:40 - [*]Creating statement... - getUser
+2017-11-01 11:15:56 TRACE accessLogger:44 - [*]Looking for the record... - getUser
+2017-11-01 11:15:56 TRACE accessLogger:61 - [*]Connection closed... - getUser
+2017-11-01 11:15:57 DEBUG accessLogger:102 - "Yash3"- Checking for existing user into database
+2017-11-01 11:15:57 DEBUG accessLogger:105 - "SELECT" argument detected for getInCommand Method
+2017-11-01 11:15:57 TRACE accessLogger:40 - [*]Creating statement... - getUser
+2017-11-01 11:15:57 TRACE accessLogger:44 - [*]Looking for the record... - getUser
+2017-11-01 11:15:57 TRACE accessLogger:61 - [*]Connection closed... - getUser
+2017-11-01 11:15:58 DEBUG accessLogger:102 - "Yash8"- Checking for existing user into database
+2017-11-01 11:15:58 DEBUG accessLogger:105 - "SELECT" argument detected for getInCommand Method
+2017-11-01 11:15:58 TRACE accessLogger:40 - [*]Creating statement... - getUser
+2017-11-01 11:15:58 TRACE accessLogger:44 - [*]Looking for the record... - getUser
+2017-11-01 11:15:58 TRACE accessLogger:61 - [*]Connection closed... - getUser
+2017-11-01 11:15:59 DEBUG accessLogger:102 - "Yash9"- Checking for existing user into database
+2017-11-01 11:15:59 DEBUG accessLogger:105 - "SELECT" argument detected for getInCommand Method
+2017-11-01 11:15:59 TRACE accessLogger:40 - [*]Creating statement... - getUser
+2017-11-01 11:15:59 TRACE accessLogger:44 - [*]Looking for the record... - getUser
+2017-11-01 11:15:59 TRACE accessLogger:61 - [*]Connection closed... - getUser
+2017-11-01 11:16:00 DEBUG accessLogger:102 - "Yash10"- Checking for existing user into database
+2017-11-01 11:16:00 DEBUG accessLogger:105 - "SELECT" argument detected for getInCommand Method
+2017-11-01 11:16:00 TRACE accessLogger:40 - [*]Creating statement... - getUser
+2017-11-01 11:16:00 TRACE accessLogger:44 - [*]Looking for the record... - getUser
+2017-11-01 11:16:00 TRACE accessLogger:61 - [*]Connection closed... - getUser
+2017-11-01 11:16:00 DEBUG accessLogger:102 - "Yash65"- Checking for existing user into database
+2017-11-01 11:16:00 DEBUG accessLogger:105 - "SELECT" argument detected for getInCommand Method
+2017-11-01 11:16:00 TRACE accessLogger:40 - [*]Creating statement... - getUser
+2017-11-01 11:16:00 TRACE accessLogger:44 - [*]Looking for the record... - getUser
+2017-11-01 11:16:00 TRACE accessLogger:61 - [*]Connection closed... - getUser
+2017-11-01 11:16:21 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:16:21 DEBUG accessLogger:51 - new user="y3" registration detected for writeUser Method
+2017-11-01 11:16:21 INFO  accessLogger:53 - BufferWriter closed
+2017-11-01 11:16:21 INFO  accessLogger:56 - FileWriter closed
+2017-11-01 11:16:21 INFO  accessLogger:66 - User(y3,pass3,role3) New user object created
+2017-11-01 11:16:21 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:16:21 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:16:21 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:16:21 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:16:21 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:16:21 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:16:21 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:16:21 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:16:21 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:16:21 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:16:21 INFO  accessLogger:42 - y11 User object created
+2017-11-01 11:16:21 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:16:21 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:16:21 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:16:21 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:16:21 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:16:21 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:16:21 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:20:11 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:20:11 DEBUG accessLogger:51 - new user="y3" registration detected for writeUser Method
+2017-11-01 11:20:11 INFO  accessLogger:53 - BufferWriter closed
+2017-11-01 11:20:11 INFO  accessLogger:56 - FileWriter closed
+2017-11-01 11:20:11 INFO  accessLogger:66 - User(y3,pass3,role3) New user object created
+2017-11-01 11:20:11 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:20:11 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:20:11 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:20:11 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:20:11 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:20:11 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:20:11 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:20:11 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:20:11 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:20:11 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:20:11 INFO  accessLogger:42 - y11 User object created
+2017-11-01 11:20:11 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:20:11 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:20:11 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:20:11 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:20:11 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:20:11 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:20:11 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:33:28 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:33:28 TRACE accessLogger:40 - [*]Creating statement... - getUser
+2017-11-01 11:33:28 TRACE accessLogger:44 - [*]Looking for the record... - getUser
+2017-11-01 11:33:28 TRACE accessLogger:61 - [*]Connection closed... - getUser
+2017-11-01 11:33:28 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:34:52 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:34:52 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:34:52 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:35:28 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:35:28 DEBUG accessLogger:51 - new user="y3" registration detected for writeUser Method
+2017-11-01 11:35:28 INFO  accessLogger:53 - BufferWriter closed
+2017-11-01 11:35:28 INFO  accessLogger:56 - FileWriter closed
+2017-11-01 11:35:28 INFO  accessLogger:66 - User(y3,pass3,role3) New user object created
+2017-11-01 11:35:28 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:35:28 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:35:28 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:35:28 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:35:29 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:35:29 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:35:29 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:35:29 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:35:29 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:35:29 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:35:29 INFO  accessLogger:42 - y11 User object created
+2017-11-01 11:35:29 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:35:29 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:35:29 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:35:29 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:35:29 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:35:29 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:35:29 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:36:56 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:36:56 DEBUG accessLogger:51 - new user="y3" registration detected for writeUser Method
+2017-11-01 11:36:56 INFO  accessLogger:53 - BufferWriter closed
+2017-11-01 11:36:56 INFO  accessLogger:56 - FileWriter closed
+2017-11-01 11:36:56 INFO  accessLogger:66 - User(y3,pass3,role3) New user object created
+2017-11-01 11:36:56 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:36:56 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:36:57 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:36:57 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:36:57 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:36:57 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:36:57 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:36:57 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:36:57 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:36:57 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:36:57 INFO  accessLogger:42 - y11 User object created
+2017-11-01 11:36:57 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:36:57 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:36:57 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:36:57 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:36:57 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:36:57 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:36:57 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:39:15 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:39:15 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:39:15 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:39:15 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:39:15 TRACE accessLogger:46 - Null argument detected for readUser Method
+2017-11-01 11:40:43 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:40:43 DEBUG accessLogger:51 - new user="y3" registration detected for writeUser Method
+2017-11-01 11:40:43 INFO  accessLogger:53 - BufferWriter closed
+2017-11-01 11:40:43 INFO  accessLogger:56 - FileWriter closed
+2017-11-01 11:40:43 INFO  accessLogger:66 - User(y3,pass3,role3) New user object created
+2017-11-01 11:40:43 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:40:43 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:40:43 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:40:43 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:40:43 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:40:44 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:44 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:44 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:40:44 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:40:44 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:40:44 INFO  accessLogger:42 - y11 User object created
+2017-11-01 11:40:44 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:44 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:44 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:40:44 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:44 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:44 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:44 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:44 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:40:44 DEBUG accessLogger:51 - new user="y3" registration detected for writeUser Method
+2017-11-01 11:40:44 INFO  accessLogger:53 - BufferWriter closed
+2017-11-01 11:40:44 INFO  accessLogger:56 - FileWriter closed
+2017-11-01 11:40:44 INFO  accessLogger:66 - User(y3,pass3,role3) New user object created
+2017-11-01 11:40:44 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:40:44 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:40:44 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:40:44 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:40:44 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:40:44 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:44 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:44 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:40:44 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:40:44 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:40:44 INFO  accessLogger:42 - y11 User object created
+2017-11-01 11:40:44 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:44 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:44 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:40:44 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:44 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:44 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:44 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:45 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:40:45 DEBUG accessLogger:51 - new user="y3" registration detected for writeUser Method
+2017-11-01 11:40:45 INFO  accessLogger:53 - BufferWriter closed
+2017-11-01 11:40:45 INFO  accessLogger:56 - FileWriter closed
+2017-11-01 11:40:45 INFO  accessLogger:66 - User(y3,pass3,role3) New user object created
+2017-11-01 11:40:45 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:40:45 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:40:45 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:40:45 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:40:45 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:40:45 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:45 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:45 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:40:45 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:40:45 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:40:45 INFO  accessLogger:42 - y11 User object created
+2017-11-01 11:40:45 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:45 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:45 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:40:45 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:45 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:45 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:45 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:46 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:40:46 DEBUG accessLogger:51 - new user="y3" registration detected for writeUser Method
+2017-11-01 11:40:46 INFO  accessLogger:53 - BufferWriter closed
+2017-11-01 11:40:46 INFO  accessLogger:56 - FileWriter closed
+2017-11-01 11:40:46 INFO  accessLogger:66 - User(y3,pass3,role3) New user object created
+2017-11-01 11:40:46 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:40:46 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:40:46 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:40:46 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:40:46 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:40:46 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:46 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:46 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:40:46 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:40:46 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:40:46 INFO  accessLogger:42 - y11 User object created
+2017-11-01 11:40:46 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:46 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:46 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:40:46 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:46 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:46 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:46 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:47 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:40:47 DEBUG accessLogger:51 - new user="y3" registration detected for writeUser Method
+2017-11-01 11:40:47 INFO  accessLogger:53 - BufferWriter closed
+2017-11-01 11:40:47 INFO  accessLogger:56 - FileWriter closed
+2017-11-01 11:40:47 INFO  accessLogger:66 - User(y3,pass3,role3) New user object created
+2017-11-01 11:40:47 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:40:47 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:40:47 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:40:47 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:40:47 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:40:47 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:47 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:47 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:40:47 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:40:47 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:40:47 INFO  accessLogger:42 - y11 User object created
+2017-11-01 11:40:47 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:47 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:47 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:40:47 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:47 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:47 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:47 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:48 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:40:48 DEBUG accessLogger:51 - new user="y3" registration detected for writeUser Method
+2017-11-01 11:40:48 INFO  accessLogger:53 - BufferWriter closed
+2017-11-01 11:40:48 INFO  accessLogger:56 - FileWriter closed
+2017-11-01 11:40:48 INFO  accessLogger:66 - User(y3,pass3,role3) New user object created
+2017-11-01 11:40:48 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:40:48 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:40:48 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:40:48 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:40:48 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:40:48 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:48 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:48 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:40:48 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:40:48 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:40:48 INFO  accessLogger:42 - y11 User object created
+2017-11-01 11:40:48 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:48 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:48 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:40:48 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:48 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:48 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:48 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:49 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:40:49 DEBUG accessLogger:51 - new user="y3" registration detected for writeUser Method
+2017-11-01 11:40:49 INFO  accessLogger:53 - BufferWriter closed
+2017-11-01 11:40:49 INFO  accessLogger:56 - FileWriter closed
+2017-11-01 11:40:49 INFO  accessLogger:66 - User(y3,pass3,role3) New user object created
+2017-11-01 11:40:49 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:40:49 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:40:49 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:40:49 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:40:49 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:40:49 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:49 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:49 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:40:49 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:40:49 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:40:49 INFO  accessLogger:42 - y11 User object created
+2017-11-01 11:40:49 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:49 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:49 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:40:49 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:49 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:49 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:49 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:50 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:40:50 DEBUG accessLogger:51 - new user="y3" registration detected for writeUser Method
+2017-11-01 11:40:50 INFO  accessLogger:53 - BufferWriter closed
+2017-11-01 11:40:50 INFO  accessLogger:56 - FileWriter closed
+2017-11-01 11:40:50 INFO  accessLogger:66 - User(y3,pass3,role3) New user object created
+2017-11-01 11:40:50 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:40:50 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:40:50 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:40:50 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:40:50 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:40:50 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:50 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:50 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:40:50 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:40:50 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:40:50 INFO  accessLogger:42 - y11 User object created
+2017-11-01 11:40:50 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:50 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:50 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:40:50 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:50 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:50 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:50 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:51 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:40:51 DEBUG accessLogger:51 - new user="y3" registration detected for writeUser Method
+2017-11-01 11:40:51 INFO  accessLogger:53 - BufferWriter closed
+2017-11-01 11:40:51 INFO  accessLogger:56 - FileWriter closed
+2017-11-01 11:40:51 INFO  accessLogger:66 - User(y3,pass3,role3) New user object created
+2017-11-01 11:40:51 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:40:51 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:40:51 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:40:51 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:40:51 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:40:51 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:51 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:51 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:40:51 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:40:51 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:40:51 INFO  accessLogger:42 - y11 User object created
+2017-11-01 11:40:51 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:51 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:51 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:40:51 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:51 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:51 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:51 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:52 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:40:52 DEBUG accessLogger:51 - new user="y3" registration detected for writeUser Method
+2017-11-01 11:40:52 INFO  accessLogger:53 - BufferWriter closed
+2017-11-01 11:40:52 INFO  accessLogger:56 - FileWriter closed
+2017-11-01 11:40:52 INFO  accessLogger:66 - User(y3,pass3,role3) New user object created
+2017-11-01 11:40:52 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:40:52 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:40:52 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:40:52 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:40:52 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:40:52 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:52 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:52 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:40:52 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:40:52 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:40:52 INFO  accessLogger:42 - y11 User object created
+2017-11-01 11:40:52 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:52 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:52 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:40:52 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:52 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:52 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:52 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:53 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:40:53 DEBUG accessLogger:51 - new user="y3" registration detected for writeUser Method
+2017-11-01 11:40:53 INFO  accessLogger:53 - BufferWriter closed
+2017-11-01 11:40:53 INFO  accessLogger:56 - FileWriter closed
+2017-11-01 11:40:53 INFO  accessLogger:66 - User(y3,pass3,role3) New user object created
+2017-11-01 11:40:53 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:40:53 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:40:53 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:40:53 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:40:53 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:40:53 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:53 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:53 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:40:53 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:40:53 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:40:53 INFO  accessLogger:42 - y11 User object created
+2017-11-01 11:40:53 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:53 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:53 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:40:53 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:53 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:53 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:53 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:54 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:40:54 DEBUG accessLogger:51 - new user="y3" registration detected for writeUser Method
+2017-11-01 11:40:54 INFO  accessLogger:53 - BufferWriter closed
+2017-11-01 11:40:54 INFO  accessLogger:56 - FileWriter closed
+2017-11-01 11:40:54 INFO  accessLogger:66 - User(y3,pass3,role3) New user object created
+2017-11-01 11:40:54 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:40:54 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:40:54 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:40:54 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:40:54 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:40:54 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:54 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:54 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:40:54 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:40:54 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:40:54 INFO  accessLogger:42 - y11 User object created
+2017-11-01 11:40:54 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:54 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:54 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:40:54 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:54 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:54 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:54 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:55 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:40:55 DEBUG accessLogger:51 - new user="y3" registration detected for writeUser Method
+2017-11-01 11:40:55 INFO  accessLogger:53 - BufferWriter closed
+2017-11-01 11:40:55 INFO  accessLogger:56 - FileWriter closed
+2017-11-01 11:40:55 INFO  accessLogger:66 - User(y3,pass3,role3) New user object created
+2017-11-01 11:40:55 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:40:55 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:40:55 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:40:55 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:40:55 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:40:55 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:55 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:55 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:40:55 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:40:55 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:40:55 INFO  accessLogger:42 - y11 User object created
+2017-11-01 11:40:55 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:55 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:55 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:40:55 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:55 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:55 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:55 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:56 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:40:56 DEBUG accessLogger:51 - new user="y3" registration detected for writeUser Method
+2017-11-01 11:40:56 INFO  accessLogger:53 - BufferWriter closed
+2017-11-01 11:40:56 INFO  accessLogger:56 - FileWriter closed
+2017-11-01 11:40:56 INFO  accessLogger:66 - User(y3,pass3,role3) New user object created
+2017-11-01 11:40:56 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:40:56 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:40:56 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:40:56 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:40:56 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:40:56 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:56 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:56 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:40:56 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:40:56 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:40:56 INFO  accessLogger:42 - y11 User object created
+2017-11-01 11:40:56 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:56 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:56 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:40:56 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:56 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:56 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:56 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:57 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:40:57 DEBUG accessLogger:51 - new user="y3" registration detected for writeUser Method
+2017-11-01 11:40:57 INFO  accessLogger:53 - BufferWriter closed
+2017-11-01 11:40:57 INFO  accessLogger:56 - FileWriter closed
+2017-11-01 11:40:57 INFO  accessLogger:66 - User(y3,pass3,role3) New user object created
+2017-11-01 11:40:57 INFO  accessLogger:76 - BufferReader closed
+2017-11-01 11:40:57 INFO  accessLogger:80 - FileReader closed
+2017-11-01 11:40:57 DEBUG accessLogger:52 - y3 New User object created
+2017-11-01 11:40:57 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:40:57 DEBUG accessLogger:52 - y2 New User object created
+2017-11-01 11:40:57 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:57 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:57 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:40:57 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:40:57 DEBUG accessLogger:52 - y11 New User object created
+2017-11-01 11:40:57 INFO  accessLogger:42 - y11 User object created
+2017-11-01 11:40:57 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:57 DEBUG accessLogger:52 - y1 New User object created
+2017-11-01 11:40:57 INFO  accessLogger:42 - y1 User object created
+2017-11-01 11:40:57 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:57 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:57 DEBUG accessLogger:52 - y New User object created
+2017-11-01 11:40:57 DEBUG accessLogger:52 - y New User object created
