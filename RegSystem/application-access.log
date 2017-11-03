@@ -1,0 +1,278 @@
+2017-11-01 09:46:08 TRACE accessLogger:33 - [*]Registering driver
+2017-11-01 09:46:08 TRACE accessLogger:36 - [*]Connecting to database...
+2017-11-01 09:46:08 TRACE accessLogger:40 - [*]Database connected successfully...
+2017-11-01 09:46:11 TRACE accessLogger:24 - [*]User (testUpdate,testUpdatePass,testUpdateAdmin) New user object created
+2017-11-01 09:46:11 TRACE accessLogger:62 - [*]Creating preparestatement...- addUser
+2017-11-01 09:46:12 TRACE accessLogger:70 - [*]Inserted seccessfully...- addUser
+2017-11-01 09:46:12 TRACE accessLogger:80 - [*]Connection closed... - addUser
+2017-11-01 09:46:12 TRACE accessLogger:24 - [*]User (testUpdate,changedpassword3,changedrole3) New user object created
+2017-11-01 09:46:12 TRACE accessLogger:173 - [*]Creating preparestatement... - updateUser
+2017-11-01 09:46:12 TRACE accessLogger:181 - [*] testUpdate Updated seccessfully... - updateUser
+2017-11-01 09:46:12 TRACE accessLogger:192 - [*]Connection closed... - updateUser
+2017-11-01 09:46:12 TRACE accessLogger:99 - [*]Creating statement... - getUser
+2017-11-01 09:46:12 TRACE accessLogger:103 - [*]Looking for the record... - getUser
+2017-11-01 09:46:12 TRACE accessLogger:119 - [*]Connection closed... - getUser
+2017-11-01 09:46:12 TRACE accessLogger:33 - [*]Registering driver
+2017-11-01 09:46:12 TRACE accessLogger:36 - [*]Connecting to database...
+2017-11-01 09:46:12 TRACE accessLogger:40 - [*]Database connected successfully...
+2017-11-01 09:46:13 TRACE accessLogger:33 - [*]Registering driver
+2017-11-01 09:46:13 TRACE accessLogger:36 - [*]Connecting to database...
+2017-11-01 09:46:13 TRACE accessLogger:40 - [*]Database connected successfully...
+2017-11-01 09:46:16 TRACE accessLogger:33 - [*]Registering driver
+2017-11-01 09:46:16 TRACE accessLogger:36 - [*]Connecting to database...
+2017-11-01 09:46:16 TRACE accessLogger:40 - [*]Database connected successfully...
+2017-11-01 09:46:17 TRACE accessLogger:24 - [*]User (testAdd2,testAdd2Pass,testAdd2) New user object created
+2017-11-01 09:46:17 TRACE accessLogger:62 - [*]Creating preparestatement...- addUser
+2017-11-01 09:46:17 TRACE accessLogger:70 - [*]Inserted seccessfully...- addUser
+2017-11-01 09:46:17 TRACE accessLogger:80 - [*]Connection closed... - addUser
+2017-11-01 09:46:17 TRACE accessLogger:99 - [*]Creating statement... - getUser
+2017-11-01 09:46:17 TRACE accessLogger:103 - [*]Looking for the record... - getUser
+2017-11-01 09:46:17 TRACE accessLogger:119 - [*]Connection closed... - getUser
+2017-11-01 09:46:17 TRACE accessLogger:33 - [*]Registering driver
+2017-11-01 09:46:17 TRACE accessLogger:36 - [*]Connecting to database...
+2017-11-01 09:46:17 TRACE accessLogger:40 - [*]Database connected successfully...
+2017-11-01 09:46:19 TRACE accessLogger:33 - [*]Registering driver
+2017-11-01 09:46:19 TRACE accessLogger:36 - [*]Connecting to database...
+2017-11-01 09:46:19 TRACE accessLogger:40 - [*]Database connected successfully...
+2017-11-01 09:46:20 TRACE accessLogger:24 - [*]User (testUpdate,testUpdatePass,testUpdateAdmin) New user object created
+2017-11-01 09:46:20 TRACE accessLogger:62 - [*]Creating preparestatement...- addUser
+2017-11-01 09:46:20 TRACE accessLogger:70 - [*]Inserted seccessfully...- addUser
+2017-11-01 09:46:20 TRACE accessLogger:80 - [*]Connection closed... - addUser
+2017-11-01 09:46:20 TRACE accessLogger:24 - [*]User (testUpdate2,testUpdatePass2,testUpdateAdmin2) New user object created
+2017-11-01 09:46:20 TRACE accessLogger:62 - [*]Creating preparestatement...- addUser
+2017-11-01 09:46:21 TRACE accessLogger:70 - [*]Inserted seccessfully...- addUser
+2017-11-01 09:46:21 TRACE accessLogger:80 - [*]Connection closed... - addUser
+2017-11-01 09:46:21 TRACE accessLogger:24 - [*]User (testUpdate,changedpassword3,changedrole3) New user object created
+2017-11-01 09:46:21 TRACE accessLogger:173 - [*]Creating preparestatement... - updateUser
+2017-11-01 09:46:22 TRACE accessLogger:181 - [*] testUpdate Updated seccessfully... - updateUser
+2017-11-01 09:46:22 TRACE accessLogger:192 - [*]Connection closed... - updateUser
+2017-11-01 09:46:22 TRACE accessLogger:207 - [*]Creating statement... - listUsers
+2017-11-01 09:46:22 INFO  accessLogger:211 - [*]Looking for the records... - listUsers
+2017-11-01 09:46:22 TRACE accessLogger:227 - [*]Connection closed... - listUsers
+2017-11-01 09:46:22 TRACE accessLogger:33 - [*]Registering driver
+2017-11-01 09:46:22 TRACE accessLogger:36 - [*]Connecting to database...
+2017-11-01 09:46:22 TRACE accessLogger:40 - [*]Database connected successfully...
+2017-11-01 09:46:23 TRACE accessLogger:33 - [*]Registering driver
+2017-11-01 09:46:23 TRACE accessLogger:36 - [*]Connecting to database...
+2017-11-01 09:46:23 TRACE accessLogger:40 - [*]Database connected successfully...
+2017-11-01 09:46:25 TRACE accessLogger:33 - [*]Registering driver
+2017-11-01 09:46:25 TRACE accessLogger:36 - [*]Connecting to database...
+2017-11-01 09:46:25 TRACE accessLogger:40 - [*]Database connected successfully...
+2017-11-01 09:46:26 TRACE accessLogger:24 - [*]User (testAdd1,testAddPass1,testAddAdmin) New user object created
+2017-11-01 09:46:26 TRACE accessLogger:62 - [*]Creating preparestatement...- addUser
+2017-11-01 09:46:27 TRACE accessLogger:70 - [*]Inserted seccessfully...- addUser
+2017-11-01 09:46:27 TRACE accessLogger:80 - [*]Connection closed... - addUser
+2017-11-01 09:46:27 TRACE accessLogger:99 - [*]Creating statement... - getUser
+2017-11-01 09:46:27 TRACE accessLogger:103 - [*]Looking for the record... - getUser
+2017-11-01 09:46:27 TRACE accessLogger:119 - [*]Connection closed... - getUser
+2017-11-01 09:46:27 TRACE accessLogger:33 - [*]Registering driver
+2017-11-01 09:46:27 TRACE accessLogger:36 - [*]Connecting to database...
+2017-11-01 09:46:27 TRACE accessLogger:40 - [*]Database connected successfully...
+2017-11-01 09:46:28 TRACE accessLogger:24 - [*]User (testRemove1,testRemovePass1,testRemoveAdmin) New user object created
+2017-11-01 09:46:28 TRACE accessLogger:62 - [*]Creating preparestatement...- addUser
+2017-11-01 09:46:28 TRACE accessLogger:70 - [*]Inserted seccessfully...- addUser
+2017-11-01 09:46:28 TRACE accessLogger:80 - [*]Connection closed... - addUser
+2017-11-01 09:46:28 TRACE accessLogger:134 - [*]Creating preparestatement... - removeUser
+2017-11-01 09:46:28 TRACE accessLogger:140 - [*] testRemove1 Deleted seccessfully... - removeUser
+2017-11-01 09:46:28 TRACE accessLogger:154 - [*]Connection closed... - removeUser
+2017-11-01 09:46:28 TRACE accessLogger:99 - [*]Creating statement... - getUser
+2017-11-01 09:46:28 TRACE accessLogger:103 - [*]Looking for the record... - getUser
+2017-11-01 09:46:28 TRACE accessLogger:119 - [*]Connection closed... - getUser
+2017-11-01 09:46:46 TRACE accessLogger:33 - [*]Registering driver
+2017-11-01 09:46:46 TRACE accessLogger:36 - [*]Connecting to database...
+2017-11-01 09:46:47 TRACE accessLogger:40 - [*]Database connected successfully...
+2017-11-01 09:46:47 TRACE accessLogger:62 - [*]Creating preparestatement...- addUser
+2017-11-01 09:46:47 TRACE accessLogger:70 - [*]Inserted seccessfully...- addUser
+2017-11-01 09:46:47 TRACE accessLogger:80 - [*]Connection closed... - addUser
+2017-11-01 09:46:47 TRACE accessLogger:62 - [*]Creating preparestatement...- addUser
+2017-11-01 09:46:47 TRACE accessLogger:70 - [*]Inserted seccessfully...- addUser
+2017-11-01 09:46:47 TRACE accessLogger:80 - [*]Connection closed... - addUser
+2017-11-01 09:46:47 TRACE accessLogger:62 - [*]Creating preparestatement...- addUser
+2017-11-01 09:46:47 TRACE accessLogger:70 - [*]Inserted seccessfully...- addUser
+2017-11-01 09:46:47 TRACE accessLogger:80 - [*]Connection closed... - addUser
+2017-11-01 09:46:47 TRACE accessLogger:62 - [*]Creating preparestatement...- addUser
+2017-11-01 09:46:47 TRACE accessLogger:70 - [*]Inserted seccessfully...- addUser
+2017-11-01 09:46:47 TRACE accessLogger:80 - [*]Connection closed... - addUser
+2017-11-01 09:46:47 TRACE accessLogger:62 - [*]Creating preparestatement...- addUser
+2017-11-01 09:46:47 TRACE accessLogger:70 - [*]Inserted seccessfully...- addUser
+2017-11-01 09:46:47 TRACE accessLogger:80 - [*]Connection closed... - addUser
+2017-11-01 09:46:47 TRACE accessLogger:62 - [*]Creating preparestatement...- addUser
+2017-11-01 09:46:47 TRACE accessLogger:70 - [*]Inserted seccessfully...- addUser
+2017-11-01 09:46:47 TRACE accessLogger:80 - [*]Connection closed... - addUser
+2017-11-01 09:46:47 TRACE accessLogger:33 - [*]Registering driver
+2017-11-01 09:46:47 TRACE accessLogger:36 - [*]Connecting to database...
+2017-11-01 09:46:47 TRACE accessLogger:40 - [*]Database connected successfully...
+2017-11-01 09:46:47 TRACE accessLogger:99 - [*]Creating statement... - getUser
+2017-11-01 09:46:47 TRACE accessLogger:103 - [*]Looking for the record... - getUser
+2017-11-01 09:46:47 TRACE accessLogger:119 - [*]Connection closed... - getUser
+2017-11-01 09:46:47 TRACE accessLogger:33 - [*]Registering driver
+2017-11-01 09:46:47 TRACE accessLogger:36 - [*]Connecting to database...
+2017-11-01 09:46:47 TRACE accessLogger:40 - [*]Database connected successfully...
+2017-11-01 09:46:47 TRACE accessLogger:134 - [*]Creating preparestatement... - removeUser
+2017-11-01 09:46:47 TRACE accessLogger:140 - [*] yash2 Deleted seccessfully... - removeUser
+2017-11-01 09:46:47 TRACE accessLogger:154 - [*]Connection closed... - removeUser
+2017-11-01 09:46:47 TRACE accessLogger:33 - [*]Registering driver
+2017-11-01 09:46:47 TRACE accessLogger:36 - [*]Connecting to database...
+2017-11-01 09:46:47 TRACE accessLogger:40 - [*]Database connected successfully...
+2017-11-01 09:46:47 TRACE accessLogger:173 - [*]Creating preparestatement... - updateUser
+2017-11-01 09:46:48 TRACE accessLogger:181 - [*] yash3 Updated seccessfully... - updateUser
+2017-11-01 09:46:48 TRACE accessLogger:192 - [*]Connection closed... - updateUser
+2017-11-01 09:46:48 TRACE accessLogger:33 - [*]Registering driver
+2017-11-01 09:46:48 TRACE accessLogger:36 - [*]Connecting to database...
+2017-11-01 09:46:48 TRACE accessLogger:40 - [*]Database connected successfully...
+2017-11-01 09:46:48 TRACE accessLogger:207 - [*]Creating statement... - listUsers
+2017-11-01 09:46:48 INFO  accessLogger:211 - [*]Looking for the records... - listUsers
+2017-11-01 09:46:48 TRACE accessLogger:227 - [*]Connection closed... - listUsers
+2017-11-01 09:48:55 TRACE accessLogger:33 - [*]Registering driver
+2017-11-01 09:48:55 TRACE accessLogger:36 - [*]Connecting to database...
+2017-11-01 09:48:56 TRACE accessLogger:40 - [*]Database connected successfully...
+2017-11-01 09:48:56 TRACE accessLogger:62 - [*]Creating preparestatement...- addUser
+2017-11-01 09:48:56 TRACE accessLogger:70 - [*]Inserted seccessfully...- addUser
+2017-11-01 09:48:56 TRACE accessLogger:80 - [*]Connection closed... - addUser
+2017-11-01 09:48:56 TRACE accessLogger:62 - [*]Creating preparestatement...- addUser
+2017-11-01 09:48:56 TRACE accessLogger:70 - [*]Inserted seccessfully...- addUser
+2017-11-01 09:48:56 TRACE accessLogger:80 - [*]Connection closed... - addUser
+2017-11-01 09:48:56 TRACE accessLogger:62 - [*]Creating preparestatement...- addUser
+2017-11-01 09:48:56 TRACE accessLogger:70 - [*]Inserted seccessfully...- addUser
+2017-11-01 09:48:56 TRACE accessLogger:80 - [*]Connection closed... - addUser
+2017-11-01 09:48:56 TRACE accessLogger:62 - [*]Creating preparestatement...- addUser
+2017-11-01 09:48:56 TRACE accessLogger:70 - [*]Inserted seccessfully...- addUser
+2017-11-01 09:48:56 TRACE accessLogger:80 - [*]Connection closed... - addUser
+2017-11-01 09:48:56 TRACE accessLogger:62 - [*]Creating preparestatement...- addUser
+2017-11-01 09:48:56 TRACE accessLogger:70 - [*]Inserted seccessfully...- addUser
+2017-11-01 09:48:56 TRACE accessLogger:80 - [*]Connection closed... - addUser
+2017-11-01 09:48:56 TRACE accessLogger:62 - [*]Creating preparestatement...- addUser
+2017-11-01 09:48:56 TRACE accessLogger:70 - [*]Inserted seccessfully...- addUser
+2017-11-01 09:48:56 TRACE accessLogger:80 - [*]Connection closed... - addUser
+2017-11-01 09:48:56 TRACE accessLogger:33 - [*]Registering driver
+2017-11-01 09:48:56 TRACE accessLogger:36 - [*]Connecting to database...
+2017-11-01 09:48:56 TRACE accessLogger:40 - [*]Database connected successfully...
+2017-11-01 09:48:56 TRACE accessLogger:99 - [*]Creating statement... - getUser
+2017-11-01 09:48:56 TRACE accessLogger:103 - [*]Looking for the record... - getUser
+2017-11-01 09:48:56 TRACE accessLogger:119 - [*]Connection closed... - getUser
+2017-11-01 09:48:56 TRACE accessLogger:33 - [*]Registering driver
+2017-11-01 09:48:56 TRACE accessLogger:36 - [*]Connecting to database...
+2017-11-01 09:48:56 TRACE accessLogger:40 - [*]Database connected successfully...
+2017-11-01 09:48:56 TRACE accessLogger:134 - [*]Creating preparestatement... - removeUser
+2017-11-01 09:48:56 TRACE accessLogger:140 - [*] yash2 Deleted seccessfully... - removeUser
+2017-11-01 09:48:56 TRACE accessLogger:154 - [*]Connection closed... - removeUser
+2017-11-01 09:48:56 TRACE accessLogger:33 - [*]Registering driver
+2017-11-01 09:48:56 TRACE accessLogger:36 - [*]Connecting to database...
+2017-11-01 09:48:56 TRACE accessLogger:40 - [*]Database connected successfully...
+2017-11-01 09:48:56 TRACE accessLogger:173 - [*]Creating preparestatement... - updateUser
+2017-11-01 09:48:56 TRACE accessLogger:181 - [*] yash3 Updated seccessfully... - updateUser
+2017-11-01 09:48:56 TRACE accessLogger:192 - [*]Connection closed... - updateUser
+2017-11-01 09:48:56 TRACE accessLogger:33 - [*]Registering driver
+2017-11-01 09:48:56 TRACE accessLogger:36 - [*]Connecting to database...
+2017-11-01 09:48:56 TRACE accessLogger:40 - [*]Database connected successfully...
+2017-11-01 09:48:56 TRACE accessLogger:207 - [*]Creating statement... - listUsers
+2017-11-01 09:48:56 INFO  accessLogger:211 - [*]Looking for the records... - listUsers
+2017-11-01 09:48:56 TRACE accessLogger:227 - [*]Connection closed... - listUsers
+2017-11-01 09:54:00 TRACE accessLogger:25 - [*]User (yash1,password1,role1) New user object created
+2017-11-01 09:54:00 TRACE accessLogger:25 - [*]User (yash2,password2,role2) New user object created
+2017-11-01 09:54:00 TRACE accessLogger:25 - [*]User (yash3,password3,role3) New user object created
+2017-11-01 09:54:00 TRACE accessLogger:25 - [*]User (yash4,password4,role4) New user object created
+2017-11-01 09:57:18 TRACE accessLogger:25 - [*]User (yash1,password1,role1) New user object created
+2017-11-01 09:57:18 TRACE accessLogger:25 - [*]User (yash2,password2,role2) New user object created
+2017-11-01 09:57:18 TRACE accessLogger:25 - [*]User (yash3,password3,role3) New user object created
+2017-11-01 09:57:18 TRACE accessLogger:25 - [*]User (yash4,password4,role4) New user object created
+2017-11-01 09:57:25 TRACE accessLogger:25 - [*]User (yash1,password1,role1) New user object created
+2017-11-01 09:57:25 TRACE accessLogger:25 - [*]User (yash2,password2,role2) New user object created
+2017-11-01 09:57:25 TRACE accessLogger:25 - [*]User (yash3,password3,role3) New user object created
+2017-11-01 09:57:25 TRACE accessLogger:25 - [*]User (yash4,password4,role4) New user object created
+2017-11-01 09:57:33 TRACE accessLogger:25 - [*]User (yash1,password1,role1) New user object created
+2017-11-01 09:57:33 TRACE accessLogger:25 - [*]User (yash2,password2,role2) New user object created
+2017-11-01 09:57:33 TRACE accessLogger:25 - [*]User (yash3,password3,role3) New user object created
+2017-11-01 09:57:33 TRACE accessLogger:25 - [*]User (yash4,password4,role4) New user object created
+2017-11-01 09:57:38 TRACE accessLogger:25 - [*]User (yash1,password1,role1) New user object created
+2017-11-01 09:57:38 TRACE accessLogger:25 - [*]User (yash2,password2,role2) New user object created
+2017-11-01 09:57:38 TRACE accessLogger:25 - [*]User (yash3,password3,role3) New user object created
+2017-11-01 09:57:38 TRACE accessLogger:25 - [*]User (yash4,password4,role4) New user object created
+2017-11-01 09:57:44 TRACE accessLogger:25 - [*]User (yash1,password1,role1) New user object created
+2017-11-01 09:57:44 TRACE accessLogger:25 - [*]User (yash2,password2,role2) New user object created
+2017-11-01 09:57:44 TRACE accessLogger:25 - [*]User (yash3,password3,role3) New user object created
+2017-11-01 09:57:44 TRACE accessLogger:25 - [*]User (yash4,password4,role4) New user object created
+2017-11-01 09:57:59 TRACE accessLogger:25 - [*]User (yash1,password1,role1) New user object created
+2017-11-01 09:57:59 TRACE accessLogger:25 - [*]User (yash2,password2,role2) New user object created
+2017-11-01 09:57:59 TRACE accessLogger:25 - [*]User (yash3,password3,role3) New user object created
+2017-11-01 09:57:59 TRACE accessLogger:25 - [*]User (yash4,password4,role4) New user object created
+2017-11-01 09:58:18 TRACE accessLogger:25 - [*]User (yash1,password1,role1) New user object created
+2017-11-01 09:58:18 TRACE accessLogger:25 - [*]User (yash2,password2,role2) New user object created
+2017-11-01 09:58:18 TRACE accessLogger:25 - [*]User (yash3,password3,role3) New user object created
+2017-11-01 09:58:18 TRACE accessLogger:25 - [*]User (yash4,password4,role4) New user object created
+2017-11-01 09:58:23 TRACE accessLogger:25 - [*]User (yash1,password1,role1) New user object created
+2017-11-01 09:58:23 TRACE accessLogger:25 - [*]User (yash2,password2,role2) New user object created
+2017-11-01 09:58:23 TRACE accessLogger:25 - [*]User (yash3,password3,role3) New user object created
+2017-11-01 09:58:23 TRACE accessLogger:25 - [*]User (yash4,password4,role4) New user object created
+2017-11-01 09:58:28 TRACE accessLogger:25 - [*]User (yash1,password1,role1) New user object created
+2017-11-01 09:58:28 TRACE accessLogger:25 - [*]User (yash2,password2,role2) New user object created
+2017-11-01 09:58:28 TRACE accessLogger:25 - [*]User (yash3,password3,role3) New user object created
+2017-11-01 09:58:28 TRACE accessLogger:25 - [*]User (yash4,password4,role4) New user object created
+2017-11-01 09:58:31 TRACE accessLogger:25 - [*]User (yash1,password1,role1) New user object created
+2017-11-01 09:58:31 TRACE accessLogger:25 - [*]User (yash2,password2,role2) New user object created
+2017-11-01 09:58:31 TRACE accessLogger:25 - [*]User (yash3,password3,role3) New user object created
+2017-11-01 09:58:31 TRACE accessLogger:25 - [*]User (yash4,password4,role4) New user object created
+2017-11-01 09:58:36 TRACE accessLogger:25 - [*]User (yash1,password1,role1) New user object created
+2017-11-01 09:58:36 TRACE accessLogger:25 - [*]User (yash2,password2,role2) New user object created
+2017-11-01 09:58:36 TRACE accessLogger:25 - [*]User (yash3,password3,role3) New user object created
+2017-11-01 09:58:36 TRACE accessLogger:25 - [*]User (yash4,password4,role4) New user object created
+2017-11-01 09:58:49 TRACE accessLogger:25 - [*]User (yash1,password1,role1) New user object created
+2017-11-01 09:58:49 TRACE accessLogger:25 - [*]User (yash2,password2,role2) New user object created
+2017-11-01 09:58:49 TRACE accessLogger:25 - [*]User (yash3,password3,role3) New user object created
+2017-11-01 09:58:49 TRACE accessLogger:25 - [*]User (yash4,password4,role4) New user object created
+2017-11-01 09:59:02 TRACE accessLogger:25 - [*]User (yash1,password1,role1) New user object created
+2017-11-01 09:59:02 TRACE accessLogger:25 - [*]User (yash2,password2,role2) New user object created
+2017-11-01 09:59:02 TRACE accessLogger:25 - [*]User (yash3,password3,role3) New user object created
+2017-11-01 09:59:02 TRACE accessLogger:25 - [*]User (yash4,password4,role4) New user object created
+2017-11-01 10:01:56 TRACE accessLogger:24 - [*]User (yash1,password1,role1) New user object created
+2017-11-01 10:01:56 TRACE accessLogger:24 - [*]User (yash2,password2,role2) New user object created
+2017-11-01 10:01:56 TRACE accessLogger:24 - [*]User (yash3,password3,role3) New user object created
+2017-11-01 10:01:56 TRACE accessLogger:24 - [*]User (yash4,password4,role4) New user object created
+2017-11-01 10:01:56 TRACE accessLogger:24 - [*]User (yash5,password5,role5) New user object created
+2017-11-01 10:01:56 TRACE accessLogger:24 - [*]User (yash6,password6,role6) New user object created
+2017-11-01 10:01:56 TRACE accessLogger:24 - [*]User (yash3,changedpassword3,changedrole3) New user object created
+2017-11-01 10:01:56 TRACE accessLogger:33 - [*]Registering driver
+2017-11-01 10:01:56 TRACE accessLogger:36 - [*]Connecting to database...
+2017-11-01 10:01:56 TRACE accessLogger:40 - [*]Database connected successfully...
+2017-11-01 10:01:56 TRACE accessLogger:62 - [*]Creating preparestatement...- addUser
+2017-11-01 10:01:56 TRACE accessLogger:70 - [*]Inserted seccessfully...- addUser
+2017-11-01 10:01:56 TRACE accessLogger:80 - [*]Connection closed... - addUser
+2017-11-01 10:01:56 TRACE accessLogger:62 - [*]Creating preparestatement...- addUser
+2017-11-01 10:01:56 TRACE accessLogger:70 - [*]Inserted seccessfully...- addUser
+2017-11-01 10:01:56 TRACE accessLogger:80 - [*]Connection closed... - addUser
+2017-11-01 10:01:56 TRACE accessLogger:62 - [*]Creating preparestatement...- addUser
+2017-11-01 10:01:56 TRACE accessLogger:70 - [*]Inserted seccessfully...- addUser
+2017-11-01 10:01:56 TRACE accessLogger:80 - [*]Connection closed... - addUser
+2017-11-01 10:01:56 TRACE accessLogger:62 - [*]Creating preparestatement...- addUser
+2017-11-01 10:01:56 TRACE accessLogger:70 - [*]Inserted seccessfully...- addUser
+2017-11-01 10:01:56 TRACE accessLogger:80 - [*]Connection closed... - addUser
+2017-11-01 10:01:56 TRACE accessLogger:62 - [*]Creating preparestatement...- addUser
+2017-11-01 10:01:56 TRACE accessLogger:70 - [*]Inserted seccessfully...- addUser
+2017-11-01 10:01:56 TRACE accessLogger:80 - [*]Connection closed... - addUser
+2017-11-01 10:01:56 TRACE accessLogger:62 - [*]Creating preparestatement...- addUser
+2017-11-01 10:01:56 TRACE accessLogger:70 - [*]Inserted seccessfully...- addUser
+2017-11-01 10:01:56 TRACE accessLogger:80 - [*]Connection closed... - addUser
+2017-11-01 10:01:56 TRACE accessLogger:33 - [*]Registering driver
+2017-11-01 10:01:56 TRACE accessLogger:36 - [*]Connecting to database...
+2017-11-01 10:01:56 TRACE accessLogger:40 - [*]Database connected successfully...
+2017-11-01 10:01:56 TRACE accessLogger:99 - [*]Creating statement... - getUser
+2017-11-01 10:01:56 TRACE accessLogger:103 - [*]Looking for the record... - getUser
+2017-11-01 10:01:56 TRACE accessLogger:119 - [*]Connection closed... - getUser
+2017-11-01 10:01:56 TRACE accessLogger:33 - [*]Registering driver
+2017-11-01 10:01:56 TRACE accessLogger:36 - [*]Connecting to database...
+2017-11-01 10:01:56 TRACE accessLogger:40 - [*]Database connected successfully...
+2017-11-01 10:01:56 TRACE accessLogger:134 - [*]Creating preparestatement... - removeUser
+2017-11-01 10:01:56 TRACE accessLogger:140 - [*] yash2 Deleted seccessfully... - removeUser
+2017-11-01 10:01:56 TRACE accessLogger:154 - [*]Connection closed... - removeUser
+2017-11-01 10:01:56 TRACE accessLogger:33 - [*]Registering driver
+2017-11-01 10:01:56 TRACE accessLogger:36 - [*]Connecting to database...
+2017-11-01 10:01:56 TRACE accessLogger:40 - [*]Database connected successfully...
+2017-11-01 10:01:56 TRACE accessLogger:173 - [*]Creating preparestatement... - updateUser
+2017-11-01 10:01:56 TRACE accessLogger:181 - [*] yash3 Updated seccessfully... - updateUser
+2017-11-01 10:01:56 TRACE accessLogger:192 - [*]Connection closed... - updateUser
+2017-11-01 10:01:56 TRACE accessLogger:33 - [*]Registering driver
+2017-11-01 10:01:56 TRACE accessLogger:36 - [*]Connecting to database...
+2017-11-01 10:01:56 TRACE accessLogger:40 - [*]Database connected successfully...
+2017-11-01 10:01:56 TRACE accessLogger:207 - [*]Creating statement... - listUsers
+2017-11-01 10:01:56 INFO  accessLogger:211 - [*]Looking for the records... - listUsers
+2017-11-01 10:01:56 TRACE accessLogger:227 - [*]Connection closed... - listUsers

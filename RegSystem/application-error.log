@@ -1,0 +1,22 @@
+2017-11-01 09:46:08 ERROR errorLogger:46 - [*]null Null value not allowed - setUserName
+2017-11-01 09:46:08 ERROR errorLogger:66 - [*]null Null value not allowed - setUserRole
+2017-11-01 09:46:08 ERROR errorLogger:56 - [*]null Null value not allowed - setUserPass
+2017-11-01 09:46:13 ERROR errorLogger:50 - [*]Null user object not allowed - addUser
+2017-11-01 09:46:16 ERROR errorLogger:163 - [*]Null user object not allowed - updateUser
+2017-11-01 09:46:19 ERROR errorLogger:91 - [*]Null string not allowed - getUser
+2017-11-01 09:46:23 ERROR errorLogger:128 - [*]Null user object not allowed - removeUser
+2017-11-01 09:46:25 ERROR errorLogger:21 - [*]Null values not allowed - User
+2017-11-01 09:54:00 ERROR errorLogger:22 - [*]Null values not allowed - User
+2017-11-01 09:57:18 ERROR errorLogger:22 - [*]Null values not allowed - User
+2017-11-01 09:57:25 ERROR errorLogger:22 - [*]Null values not allowed - User
+2017-11-01 09:57:33 ERROR errorLogger:22 - [*]Null values not allowed - User
+2017-11-01 09:57:38 ERROR errorLogger:22 - [*]Null values not allowed - User
+2017-11-01 09:57:44 ERROR errorLogger:22 - [*]Null values not allowed - User
+2017-11-01 09:57:59 ERROR errorLogger:22 - [*]Null values not allowed - User
+2017-11-01 09:58:18 ERROR errorLogger:22 - [*]Null values not allowed - User
+2017-11-01 09:58:23 ERROR errorLogger:22 - [*]Null values not allowed - User
+2017-11-01 09:58:28 ERROR errorLogger:22 - [*]Null values not allowed - User
+2017-11-01 09:58:31 ERROR errorLogger:22 - [*]Null values not allowed - User
+2017-11-01 09:58:36 ERROR errorLogger:22 - [*]Null values not allowed - User
+2017-11-01 09:58:49 ERROR errorLogger:22 - [*]Null values not allowed - User
+2017-11-01 09:59:02 ERROR errorLogger:22 - [*]Null values not allowed - User
